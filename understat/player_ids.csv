@@ -1,0 +1,1545 @@
+fpl_code,understat_id,fpl_name,understat_name
+76306,62,Lukas Rupp,Lukas Rupp
+165153,65,Timo Werner,Timo Werner
+119471,76,Fabian Schär,Fabian Schär
+180974,87,Joelinton Cássio Apolinário de Lira,Joelinton
+170137,101,Allan Saint-Maximin,Allan Saint-Maximin
+93100,111,Jannik Vestergaard,Jannik Vestergaard
+80201,181,Bernd Leno,Bernd Leno
+135363,200,Andreas Christensen,Andreas Christensen
+84450,204,Granit Xhaka,Granit Xhaka
+61558,229,Thiago Alcántara do Nascimento,Thiago Alcántara
+60307,239,Pascal Groß,Pascal Groß
+59859,314,Ilkay Gündogan,Ilkay Gündogan
+54694,318,Pierre-Emerick Aubameyang,Pierre-Emerick Aubameyang
+60914,332,Joel Matip,Joel Matip
+111457,342,Sead Kolasinac,Sead Kolasinac
+132015,343,Pierre-Emile Højbjerg,Pierre-Emile Højbjerg
+61366,447,Kevin De Bruyne,Kevin De Bruyne
+85971,453,Heung-Min Son,Son Heung-Min
+56983,461,Matt Ritchie,Matt Ritchie
+40387,462,Dan Gosling,Dan Gosling
+78007,465,Joshua King,Joshua King
+75115,468,Callum Wilson,Callum Wilson
+92217,482,Roberto Firmino,Roberto Firmino
+152760,484,Divock Origi,Divock Origi
+39155,486,Adam Lallana,Adam Lallana
+84583,488,Philippe Coutinho Correia,Philippe Coutinho
+15157,489,James Milner,James Milner
+98745,492,Héctor Bellerín,Héctor Bellerín
+153256,496,Mohamed Naser El Sayed Elneny,Mohamed Elneny
+153133,500,Alex Iwobi,Alex Iwobi
+50175,501,Danny Welbeck,Danny Welbeck
+44346,502,Olivier Giroud,Olivier Giroud
+20467,503,Theo Walcott,Theo Walcott
+101184,508,Calum Chambers,Calum Chambers
+20066,509,Wayne Hennessey,Wayne Hennessey
+55494,510,Joel Ward,Joel Ward
+82403,522,Wilfried Zaha,Wilfried Zaha
+58786,525,Martin Kelly,Martin Kelly
+60706,527,Adrián San Miguel del Castillo,Adrián
+40669,528,Angelo Ogbonna,Angelo Ogbonna
+48717,529,Winston Reid,Winston Reid
+49413,530,James Tomkins,James Tomkins
+57531,531,Michail Antonio,Michail Antonio
+55037,532,Cheikhou Kouyaté,Cheikhou Kouyaté
+18073,533,Mark Noble,Mark Noble
+55459,534,Aaron Cresswell,Aaron Cresswell
+86934,535,Manuel Lanzini,Manuel Lanzini
+32259,540,Darren Randolph,Darren Randolph
+51940,546,David de Gea,David de Gea
+148225,553,Anthony Martial,Anthony Martial
+43670,554,Juan Mata,Juan Mata
+176297,556,Marcus Rashford,Marcus Rashford
+109322,558,Jesse Lingard,Jesse Lingard
+41725,574,Troy Deeney,Troy Deeney
+126184,579,Nathan Aké,Nathan Aké
+41338,581,Craig Cathcart,Craig Cathcart
+59949,585,Seamus Coleman,Seamus Coleman
+97299,586,John Stones,John Stones
+88894,592,Ross Barkley,Ross Barkley
+17349,593,Aaron Lennon,Aaron Lennon
+66749,594,Romelu Lukaku,Romelu Lukaku
+43250,596,Tom Cleverley,Tom Cleverley
+57328,603,Nathaniel Clyne,Nathaniel Clyne
+56979,605,Jordan Henderson,Jordan Henderson
+54861,606,Christian Benteke,Christian Benteke
+15749,609,Joe Hart,Joe Hart
+27789,614,Fernando Luiz Rosa,Fernandinho
+103955,618,Raheem Sterling,Raheem Sterling
+173515,620,Kelechi Iheanacho,Kelechi Iheanacho
+20310,624,Willy Caballero,Willy Caballero
+18892,631,Ashley Young,Ashley Young
+50471,633,James McArthur,James McArthur
+58376,635,Alex McCarthy,Alex McCarthy
+37915,637,Hugo Lloris,Hugo Lloris
+58621,638,Kyle Walker,Kyle Walker
+55605,639,Toby Alderweireld,Toby Alderweireld
+38290,641,Danny Rose,Danny Rose
+93264,643,Eric Dier,Eric Dier
+62974,644,Erik Lamela,Erik Lamela
+108823,645,Bamidele Alli,Dele Alli
+80607,646,Christian Eriksen,Christian Eriksen
+78830,647,Harry Kane,Harry Kane
+77794,652,Kieran Trippier,Kieran Trippier
+115556,660,Ben Davies,Ben Davies
+60551,669,Ashley Westwood,Ashley Westwood
+80146,672,Jordan Ayew,Jordan Ayew
+114283,675,Jack Grealish,Jack Grealish
+41328,681,César Azpilicueta,César Azpilicueta
+126187,688,Ruben Loftus-Cheek,Ruben Loftus-Cheek
+40349,694,Asmir Begovic,Asmir Begovic
+110504,695,Bertrand Traoré,Bertrand Traoré
+62398,697,Nemanja Matic,Nemanja Matic
+173879,702,Tammy Abraham,Tammy Abraham
+37096,706,Lukasz Fabianski,Lukasz Fabianski
+57145,708,Federico Fernández,Federico Fernández
+40145,712,Jack Cork,Jack Cork
+55422,714,Gylfi Sigurdsson,Gylfi Sigurdsson
+111234,741,Jordan Pickford,Jordan Pickford
+104547,743,Dwight Gayle,Dwight Gayle
+17745,745,Kasper Schmeichel,Kasper Schmeichel
+103025,750,Riyad Mahrez,Riyad Mahrez
+116594,751,N'Golo Kanté,N&#039;Golo Kanté
+51938,753,Marc Albrighton,Marc Albrighton
+101668,755,Jamie Vardy,Jamie Vardy
+86417,757,Jeffrey Schlupp,Jeffrey Schlupp
+155569,759,Daniel Amartey,Daniel Amartey
+172632,762,Demarai Gray,Demarai Gray
+19838,763,Robert Elliot,Robert Elliot
+101148,766,Jamaal Lascelles,Jamaal Lascelles
+50232,769,Jonjo Shelvey,Jonjo Shelvey
+168580,770,Ayoze Pérez,Ayoze Pérez
+45268,772,Moussa Sissoko,Moussa Sissoko
+60252,775,Andros Townsend,Andros Townsend
+59735,780,Karl Darlow,Karl Darlow
+172850,782,Benjamin Chilwell,Ben Chilwell
+19236,785,John Ruddy,John Ruddy
+83283,790,Nathan Redmond,Nathan Redmond
+9089,803,Ben Foster,Ben Foster
+60232,804,Craig Dawson,Craig Dawson
+37642,807,Jonny Evans,Jonny Evans
+57134,813,Salomón Rondón,Salomón Rondón
+106617,822,Patrick Bamford,Patrick Bamford
+40383,831,Fraser Forster,Fraser Forster
+97032,833,Virgil van Dijk,Virgil van Dijk
+40146,835,Ryan Bertrand,Ryan Bertrand
+110979,838,Sadio Mané,Sadio Mané
+20452,839,Shane Long,Shane Long
+78056,842,Oriol Romeu Vidal,Oriol Romeu
+101178,843,James Ward-Prowse,James Ward-Prowse
+44683,844,Jay Rodriguez,Jay Rodriguez
+58822,847,Cédric Soares,Cédric Soares
+155503,852,Freddie Woodman,Freddie Woodman
+106618,853,Paul Dummett,Paul Dummett
+105666,856,Jack Butland,Jack Butland
+17997,857,Phil Bardsley,Phil Bardsley
+58845,875,Ciaran Clark,Ciaran Clark
+41823,876,Fabian Delph,Fabian Delph
+169359,884,Matt Targett,Matt Targett
+158534,885,Kyle Walker-Peters,Kyle Walker-Peters
+39487,887,Erik Pieters,Erik Pieters
+68312,888,Xherdan Shaqiri,Xherdan Shaqiri
+159533,900,Adama Traoré,Adama Traoré
+113564,902,Sam Byram,Sam Byram
+156689,922,Andreas Pereira,Andreas Pereira
+180804,934,Axel Tuanzebe,Axel Tuanzebe
+103192,935,Kurt Zouma,Kurt Zouma
+76359,951,Phil Jones,Phil Jones
+81880,966,Alex Oxlade-Chamberlain,Alex Oxlade-Chamberlain
+157668,971,Harry Winks,Harry Winks
+20480,982,Tim Krul,Tim Krul
+194164,985,Mason Holgate,Mason Holgate
+84939,986,Danny Ings,Danny Ings
+171287,987,Joseph Gomez,Joseph Gomez
+144485,998,Ivan Toney,Ivan Toney
+106760,1006,Luke Shaw,Luke Shaw
+173821,1014,Tyler Roberts,Tyler Roberts
+81183,1017,Matej Vydra,Matej Vydra
+149484,1024,Tyrone Mings,Tyrone Mings
+154506,1025,Daniel Bachmann,Daniel Bachmann
+171270,1032,Kieran Dowell,Kieran Dowell
+173807,1042,Tom Davies,Tom Davies
+221239,1053,Keinan Davis,Keinan Davis
+174932,1078,Sergi Canós,Sergi Canos
+153673,1084,Jonjoe Kenny,Jonjoe Kenny
+69143,1123,Juraj Kucka,Juraj Kucka
+162651,1142,Samir Caetano de Souza Santos,Samir
+140941,1154,Stipe Perica,Stipe Perica
+198849,1227,Lucas Torreira,Lucas Torreira
+141746,1228,Bruno Miguel Borges Fernandes,Bruno Fernandes
+106837,1234,Dennis Praet,Dennis Praet
+109533,1245,Emerson Palmieri dos Santos,Emerson
+118748,1250,Mohamed Salah,Mohamed Salah
+116535,1257,Alisson Ramses Becker,Alisson
+242058,1304,Moise Kean,Moise Kean
+119765,1379,Allan Marques Loureiro,Allan
+85955,1389,Jorge Luiz Frello Filho,Jorginho
+155651,1441,Adam Masina,Adam Masina
+111773,1545,Emil Krafth,Emil Krafth
+82263,1621,Marcos Alonso,Marcos Alonso
+68983,1652,Matthew Lowton,Matthew Lowton
+106611,1653,Michael Keane,Michael Keane
+51927,1654,Ben Mee,Ben Mee
+73426,1660,Andre Gray,Andre Gray
+60586,1663,Johann Berg Gudmundsson,Johann Berg Gudmundsson
+17761,1665,James Tarkowski,James Tarkowski
+176296,1675,Ashley Fletcher,Ashley Fletcher
+89085,1677,Nathaniel Chalobah,Nathaniel Chalobah
+94245,1678,Michy Batshuayi,Michy Batshuayi
+90105,1683,Ryan Fraser,Ryan Fraser
+95658,1687,Harry Maguire,Harry Maguire
+122798,1688,Andrew Robertson,Andrew Robertson
+11974,1697,Eldin Jakupovic,Eldin Jakupovic
+83312,1707,Ben Gibson,Ben Gibson
+80179,1711,Adam Forshaw,Adam Forshaw
+109528,1719,Javier Manquillo,Javier Manquillo
+85624,1725,Christian Kabasele,Christian Kabasele
+121599,1726,Abdoulaye Doucouré,Abdoulaye Doucouré
+88900,1735,Jack Stephens,Jack Stephens
+197365,1739,Eric Bailly,Eric Bailly
+74208,1740,Paul Pogba,Paul Pogba
+83314,1746,Jeff Hendrick,Jeff Hendrick
+41674,1747,Kevin Long,Kevin Long
+156074,1749,Rob Holding,Rob Holding
+154043,1750,Ainsley Maitland-Niles,Ainsley Maitland-Niles
+105717,1760,Arthur Masuaku,Arthur Masuaku
+178186,1776,Jarrod Bowen,Jarrod Bowen
+86881,1785,Nampalys Mendy,Nampalys Mendy
+169187,1791,Trent Alexander-Arnold,Trent Alexander-Arnold
+61810,1801,Pontus Jansson,Pontus Jansson
+102380,1822,Antonio Rüdiger,Antonio Rüdiger
+101188,1823,Lucas Digne,Lucas Digne
+152590,1828,Alex Nicolao Telles,Alex Telles
+156683,1841,Pierluigi Gollini,Pierluigi Gollini
+149915,2163,Diego Llorente,Diego Llorente
+28690,2164,Pablo Hernández Domínguez,Pablo Hernández
+40836,2190,Vicente Guaita,Vicente Guaita
+195546,2203,Emiliano Buendía Stati,Emiliano Buendía
+90152,2245,Raphaël Varane,Raphael Varane
+60025,2249,James Rodríguez,James Rodríguez
+91651,2254,Mateo Kovacic,Mateo Kovacic
+39790,2259,Francisco Casilla Cortés,Kiko Casilla
+89335,2266,Saúl Ñíguez,Saúl Ñíguez
+114128,2280,Jonathan Castro Otto,Jonny
+84182,2310,Alphonse Areola,Alphonse Areola
+167199,2328,Thomas Partey,Thomas Partey
+217593,2335,Pablo Fornals,Pablo Fornals
+14937,2371,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo
+121145,2379,João Pedro Cavaco Cancelo,João Cancelo
+80954,2381,Rodrigo Moreno,Rodrigo
+120250,2383,André Filipe Tavares Gomes,André Gomes
+220566,2496,Rodrigo Hernandez,Rodri
+146941,2498,Aymeric Laporte,Aymeric Laporte
+184029,2517,Martin Ødegaard,Martin Odegaard
+176413,2662,Christian Pulisic,Christian Pulisic
+206325,2958,Oleksandr Zinchenko,Oleksandr Zinchenko
+219924,3203,Issa Diop,Issa Diop
+203368,3253,Frédéric Guilbert,Frederic Guilbert
+59966,3277,Alexandre Lacazette,Alexandre Lacazette
+149519,3278,Maxwel Cornet,Maxwel Cornet
+51090,3288,Thiago Emiliano da Silva,Thiago Silva
+95715,3293,Lucas Rodrigues Moura da Silva,Lucas Moura
+40720,3294,Edinson Cavani,Edinson Cavani
+111931,3303,Ricardo Domingos Barbosa Pereira,Ricardo Pereira
+52775,3387,Nicolas Nkoulou,Nicolas N'Koulou
+102826,3389,Benjamin Mendy,Benjamin Mendy
+116643,3420,Fabio Henrique Tavares,Fabinho
+19624,3422,João Filipe Iria Santos Moutinho,João Moutinho
+165808,3428,Hélder Wander Sousa de Azevedo e Costa,Hélder Costa
+57513,3468,Jonas Lössl,Jonas Lössl
+107613,3491,Romain Saïss,Romain Saiss
+172841,3585,Saïd Benrahma,Said Benrahma
+80226,3600,Serge Aurier,Serge Aurier
+115382,3621,Neal Maupay,Neal Maupay
+165809,3635,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva
+122775,3696,Morgan Sanson,Morgan Sanson
+199670,3697,Odsonne Edouard,Odsonne Edouard
+171099,3729,Hassane Kamara,Hassane Kamara
+93284,4068,Florin Andone,Florin Andone
+102057,4105,Raúl Jiménez,Raúl Jiménez
+72222,4381,Mateusz Klich,Mateusz Klich
+98980,4401,Emiliano Martínez,Emiliano Martinez
+155511,4419,Adam Armstrong,Adam Armstrong
+44699,4422,Ashley Barnes,Ashley Barnes
+60689,4456,Chris Wood,Chris Wood
+79852,4475,Jed Steer,Jed Steer
+160987,4764,Jean-Philippe Gbamin,Jean-Philippe Gbamin
+209353,4918,Patrick Cutrone,Patrick Cutrone
+54484,5043,Francisco Femenía Far,Kiko Femenía
+109745,5061,Kepa Arrizabalaga,Kepa
+220166,5085,Marc Navarro,Marc Navarro
+240796,5191,Álvaro Fernández,Álvaro Fernández
+219847,5220,Kai Havertz,Kai Havertz
+215711,5221,Leon Bailey,Leon Bailey
+175592,5247,Naby Keita,Naby Keita
+218031,5264,Çaglar Söyüncü,Caglar Söyüncü
+205651,5543,Gabriel Fernando de Jesus,Gabriel Jesus
+107265,5544,Angus Gunn,Angus Gunn
+203341,5545,Wilfred Ndidi,Wilfred Ndidi
+66975,5549,Luka Milivojevic,Luka Milivojevic
+98747,5552,Nick Pope,Nick Pope
+204480,5553,Declan Rice,Declan Rice
+177815,5555,Dominic Calvert-Lewin,Dominic Calvert-Lewin
+219352,5556,Ademola Lookman,Ademola Lookman
+182436,5557,Ben Woodburn,Ben Woodburn
+195851,5560,Scott McTominay,Scott McTominay
+192290,5568,Connor Roberts,Connor Roberts
+216058,5573,Domingos Quina,Domingos Quina
+214590,5584,Aaron Wan-Bissaka,Aaron Wan-Bissaka
+200617,5595,Daniel James,Daniel James
+225321,5603,Aaron Ramsdale,Aaron Ramsdale
+227127,5609,Yves Bissouma,Yves Bissouma
+193488,5612,Anwar El Ghazi,Anwar El Ghazi
+226597,5613,Gabriel Magalhães,Gabriel
+212325,5619,Pierre Lees-Melou,Pierre Lees-Melou
+204727,5648,Malang Sarr,Malang Sarr
+195735,5656,Nicolas Pépé,Nicolas Pepe
+232185,5675,Ismaila Sarr,Ismaila Sarr
+200826,5681,Giovani Lo Celso,Giovani Lo Celso
+111291,5708,Fernando Marçal,Fernando Marçal
+231747,5735,Jean-Philippe Mateta,Jean-Philippe Mateta
+242166,5759,Mattéo Guendouzi,Matteo Guendouzi
+216646,5786,Yoane Wissa,Yoane Wissa
+166989,5956,Youri Tielemans,Youri Tielemans
+231372,5962,Tanguy Ndombele,Tanguy NDombele Alvaro
+212319,6026,Richarlison de Andrade,Richarlison
+173954,6027,Jairo Riedewald,Jairo Riedewald
+48760,6030,Mathias Jorgensen,Zanka
+171771,6042,Jan Bednarek,Jan Bednarek
+103914,6044,Charlie Taylor,Charlie Taylor
+61933,6047,Shane Duffy,Shane Duffy
+83299,6048,Lewis Dunk,Lewis Dunk
+109345,6049,Solomon March,Solly March
+66242,6050,Davy Pröpper,Davy Pröpper
+40845,6051,Dale Stephens,Dale Stephens
+121160,6054,Ederson Santana de Moraes,Ederson
+209244,6055,Phil Foden,Phil Foden
+153127,6062,Isaac Hayden,Isaac Hayden
+114243,6063,Jacob Murphy,Jacob Murphy
+184667,6080,Victor Lindelöf,Victor Lindelöf
+108413,6104,Will Hughes,Will Hughes
+202993,6108,Rodrigo Bentancur,Rodrigo Bentancur
+230046,6122,Douglas Luiz Soares de Paulo,Douglas Luiz
+166477,6157,Timothy Castagne,Timothy Castagne
+200402,6163,Nélson Cabral Semedo,Nélson Semedo
+173904,6249,Davinson Sánchez,Davinson Sánchez
+212721,6252,Lyanco Evangelista Silveira Neves Vojnovic,Lyanco
+193645,6273,Robin Koch,Robin Koch
+56377,6274,Andriy Yarmolenko,Andriy Yarmolenko
+180151,6276,Nikola Vlasic,Nikola Vlasic
+225902,6310,Boubakary Soumaré,Boubakary Soumare
+174874,6314,Joachim Andersen,Joachim Andersen
+204716,6326,Ibrahima Konaté,Ibrahima Konaté
+428610,6336,Bruno André Cavaco Jordão,Bruno Jordao
+209243,6345,Jadon Sancho,Jadon Sancho
+199598,6369,Ethan Ampadu,Ethan Ampadu
+214225,6377,Joe Rodon,Joe Rodon
+247632,6382,Pedro Lomba Neto,Pedro Neto
+197469,6418,Hamza Choudhury,Hamza Choudhury
+222018,6424,Ben Johnson,Ben Johnson
+224444,6441,Ferran Torres,Ferrán Torres
+232423,6451,Nathan Ferguson,Nathan Ferguson
+209046,6456,Callum Hudson-Odoi,Callum Hudson-Odoi
+66838,6477,Cenk Tosun,Cenk Tosun
+205533,6482,Edward Nketiah,Eddie Nketiah
+443967,6485,Héctor Junior Firpo Adames,Júnior Firpo
+200641,6492,Reiss Nelson,Reiss Nelson
+244560,6500,Romain Perraud,Romain Perraud
+220598,6504,Michael Obafemi,Michael Obafemi
+164511,6521,Yerry Mina,Yerry Mina
+212723,6523,Milot Rashica,Milot Rashica
+167522,6526,Jordan Hugill,Jordan Hugill
+67089,6532,Martin Dubravka,Martin Dubravka
+227560,6538,Oghenekaro Peter Etebo,Oghenekaro Etebo
+106757,6542,Jürgen Locadia,Jürgen Locadia
+446008,6552,Bryan Mbeumo,Bryan Mbeumo
+180736,6615,Trevoh Chalobah,Trevoh Chalobah
+200089,6630,Joseph Willock,Joe Willock
+206915,6665,Curtis Jones,Curtis Jones
+448514,6674,Rayan Ait Nouri,Rayan Ait Nouri
+201666,6681,Harvey Barnes,Harvey Barnes
+445044,6691,Dejan Kulusevski,Dejan Kulusevski
+233963,6722,Konstantinos Mavropanos,Konstantinos Mavropanos
+240143,6736,Ibrahima Diallo,Ibrahima Diallo
+433154,6756,Dwight McNeil,Dwight McNeil
+101582,6817,Frederico Rodrigues de Paula Santos,Fred
+172780,6818,James Maddison,James Maddison
+184349,6837,Ryan Sessegnon,Ryan Sessegnon
+157775,6841,Ken Sema,Ken Sema
+165210,6842,Alireza Jahanbakhsh,Alireza Jahanbakhsh
+38533,6849,Rui Pedro dos Santos Patrício,Rui Patrício
+90585,6850,Willy Boly,Willy Boly
+94147,6851,Conor Coady,Conor Coady
+87835,6852,Matt Doherty,Matt Doherty
+171317,6853,Rúben Diogo da Silva Neves,Rúben Neves
+194634,6854,Diogo Jota,Diogo Jota
+222531,6857,Morgan Gibbs-White,Morgan Gibbs-White
+123354,6859,Kortney Hause,Kortney Hause
+115918,6875,Rúnar Alex Rúnarsson,Rúnar Alex Rúnarsson
+228286,6880,Edouard Mendy,Edouard Mendy
+462424,6888,William Saliba,William Saliba
+81012,6891,Ryan Fredericks,Ryan Fredericks
+91047,6893,Stuart Armstrong,Stuart Armstrong
+96787,6894,Mohamed Elyounoussi,Mohamed Elyounoussi
+450527,6923,Mohammed Salisu,Mohammed Salisu
+225702,6947,Samuel Kalu,Samuel Kalu
+244716,6954,Juan Camilo Hernández Suárez,Juan Camilo Hernández
+111782,6962,Robin Olsen,Robin Olsen
+131304,6996,William Troost-Ekong,William Troost-Ekong
+120202,7052,Wout Weghorst,Wout Weghorst
+100649,7063,Bernard Anício Caldeira Duarte,Bernard
+205836,7069,Saman Ghoddos,Saman Ghoddos
+122074,7076,Marcus Bettinelli,Marcus Bettinelli
+180135,7078,Sean Longstaff,Sean Longstaff
+208973,7081,Francisco Sierralta,Francisco Sierralta
+128295,7083,Christian Nørgaard,Christian Nørgaard
+179268,7134,Marc Cucurella,Marc Cucurella
+108156,7152,Björn Engels,Björn Engels
+207283,7166,Mathias Jensen,Mathias Jensen
+199249,7187,Sergio Reguilón,Sergio Reguilón
+209042,7198,Oliver Skipp,Oliver Skipp
+241289,7216,Ben Wilmot,Ben Wilmot
+221632,7218,Cristian Romero,Cristian Romero
+209289,7230,Emile Smith Rowe,Emile Smith-Rowe
+49262,7235,Jason Steele,Jason Steele
+151589,7236,Leander Dendoncker,Leander Dendoncker
+471471,7278,Imrân Louza,Imran Louza
+213482,7280,Yan Valery,Yan Valery
+216051,7281,José Diogo Dalot Teixeira,Diogo Dalot
+215476,7295,Joshua Sargent,Joshua Sargent
+198869,7298,Ben White,Ben White
+223340,7322,Bukayo Saka,Bukayo Saka
+214048,7332,Max Kilman,Max Kilman
+436234,7338,Bryan Gil Salvatierra,Bryan Gil Salvatierra
+438277,7376,Ozan Kabak,Ozan Kabak
+78916,7382,Dan Burn,Dan Burn
+217401,7383,Josh Benson,Josh Benson
+179018,7420,Miguel Almirón,Miguel Almirón
+241157,7430,Emerson Aparecido Leite de Souza Junior,Emerson
+168399,7459,Will Norris,Will Norris
+179276,7470,Mathias Normann,Mathias Normann
+220688,7490,Mason Greenwood,Mason Greenwood
+444884,7546,Harvey Elliott,Harvey Elliott
+444463,7589,Wesley Fofana,Wesley Fofana
+209036,7603,Marc Guéhi,Marc Guehi
+232980,7688,Max Aarons,Max Aarons
+198826,7689,Ben Godfrey,Ben Godfrey
+83428,7690,Grant Hanley,Grant Hanley
+194799,7691,Jamal Lewis,Jamal Lewis
+78607,7693,Kenny McLean,Kenny McLean
+71738,7694,Marco Stiepermann,Marco Stiepermann
+193111,7695,Todd Cantwell,Todd Cantwell
+57127,7696,Teemu Pukki,Teemu Pukki
+89470,7697,Onel Hernández,Onel Hernández
+116216,7698,Leandro Trossard,Leandro Trossard
+110735,7699,Adam Webster,Adam Webster
+200439,7700,Che Adams,Che Adams
+431131,7701,Moussa Djenepo,Moussa Djenepo
+172649,7702,Dean Henderson,Dean Henderson
+85242,7721,Conor Hourihane,Conor Hourihane
+148508,7722,Mahmoud Ahmed Ibrahim Hassan,Trézéguet
+122806,7723,John McGinn,John McGinn
+213345,7724,Wesley Moraes,Wesley
+199798,7726,Ezri Konsa Ngoyo,Ezri Konsa Ngoyo
+444145,7752,Gabriel Teodoro Martinelli Silva,Gabriel Martinelli
+220627,7753,James Justin,James Justin
+184341,7768,Mason Mount,Mason Mount
+164484,7817,Zack Steffen,Zack Steffen
+200720,7904,Caoimhin Kelleher,Caoimhin Kelleher
+223723,7931,Takehiro Tomiyasu,Takehiro Tomiyasu
+243568,7988,Billy Gilmour,Billy Gilmour
+192303,7990,Christoph Zimmermann,Christoph Zimmermann
+233425,7991,Aaron Connolly,Aaron Connolly
+223175,8016,Matthew Longstaff,Matthew Longstaff
+195728,8017,Alex Kral,Alex Kral
+235382,8020,Steven Alzate,Steven Alzate
+432735,8021,Adam Idah,Adam Idah
+18499,8022,Michael McGovern,Michael McGovern
+219961,8026,Raphael Dias Belloli,Raphinha
+184704,8040,Marvelous Nakamba,Marvelous Nakamba
+225796,8067,Reece James,Reece James
+232937,8075,Brandon Williams,Brandon Williams
+192895,8089,Kieran Tierney,Kieran Tierney
+495542,8109,Niels Nkounkou,Niels Nkounkou
+493250,8127,Amad Diallo,Amad Diallo Traore
+232826,8150,Anthony Gordon,Anthony Gordon
+17601,8158,Scott Carson,Scott Carson
+245923,8179,Luke Cundle,Luke Cundle
+250604,8180,Owen Otasowie,Owen Otasowie
+215136,8204,Neco Williams,Neco Williams
+244723,8214,Tyrick Mitchell,Tyrick Mitchell
+199584,8222,Japhet Tanganga,Japhet Tanganga
+214466,8224,William Smallbone,William Smallbone
+232792,8226,Tariq Lamptey,Tariq Lamptey
+197464,8228,Nathaniel Phillips,Nathaniel Phillips
+232391,8235,Jeremy Ngakia,Jeremy Ngakia
+157882,8239,Takumi Minamino,Takumi Minamino
+475168,8272,João Pedro Junqueira de Jesus,João Pedro
+217487,8287,Mbwana Ally Samatta,Mbwana Samatta
+215439,8288,Tomas Soucek,Tomas Soucek
+200600,8291,Daniel Castelo Podence,Daniel Podence
+194252,8300,Steven Bergwijn,Steven Bergwijn
+172782,8323,Josh Brownhill,Josh Brownhill
+208706,8327,Bruno Guimarães Rodriguez Moura,Bruno Guimarães
+441271,8351,Ki-Jana Hoever,Ki-Jana Hoever
+222627,8366,João Virgínia,João Virgínia
+243016,8379,Alexis Mac Allister,Alexis Mac Allister
+92371,8380,Pablo Marí,Pablo Marí
+440323,8384,Armando Broja,Armando Broja
+439485,8455,Josh Martin,Josh Martin
+203389,8456,Nathan Tella,Nathan Tella
+480455,8476,Jarrad Branthwaite,Jarrad Branthwaite
+220037,8482,Bailey Peacock-Farrell,Bailey Peacock-Farrell
+220394,8496,Tommy Doyle,Tommy Doyle
+244851,8497,Cole Palmer,Cole Palmer
+450529,8544,Lewis Bate,Lewis Bate
+244619,8562,Luke Thomas,Luke Thomas
+218997,8582,Ellis Simms,Ellis Simms
+232413,8706,Eberechi Eze,Eberechi Eze
+437495,8715,Illan Meslier,Illan Meslier
+66588,8716,Luke Ayling,Luke Ayling
+222694,8717,Pascal Struijk,Pascal Struijk
+87873,8718,Stuart Dallas,Stuart Dallas
+155405,8719,Kalvin Phillips,Kalvin Phillips
+221399,8720,Jack Harrison,Jack Harrison
+221610,8721,Jamie Shackleton,Jamie Shackleton
+215460,8723,Ian Carlo Poveda-Ocampo,Ian Poveda-Ocampo
+449988,8778,Fabio Silva,Fabio Silva
+111478,8780,Joël Veltman,Joël Veltman
+55914,8816,Liam Cooper,Liam Cooper
+180184,8821,Donny van de Beek,Donny van de Beek
+184754,8845,Hee-Chan Hwang,Hee-Chan Hwang
+214285,8852,Konstantinos Tsimikas,Konstantinos Tsimikas
+199796,8864,Matthew Cash,Matthew Cash
+178301,8865,Ollie Watkins,Ollie Watkins
+463034,8868,Liam Delap,Liam Delap
+222564,8934,Francisco Machado Mota de Castro Trincão,Trincão
+232653,8941,Jacob Ramsey,Jacob Ramsey
+171314,8961,Rúben Santos Gato Alves Dias,Rúben Dias
+164555,8965,Vladimir Coufal,Vladimir Coufal
+124183,8992,Hakim Ziyech,Hakim Ziyech
+232787,9040,Conor Gallagher,Conor Gallagher
+461096,9082,Lewis Richardson,Lewis Richardson
+219937,9086,Rhys Williams,Rhys Williams
+215059,9098,Robert Sánchez,Robert Sánchez
+204676,9099,Andi Zeqiri,Andi Zeqiri
+215379,9154,Elliot Anderson,Elliot Anderson
+492373,9220,Charlie Cresswell,Charlie Cresswell
+243505,9284,Jakub Moder,Jakub Moder
+461446,9287,Tyler Onyango,Tyler Onyango
+230251,9301,Emmanuel Dennis,Emmanuel Dennis
+490145,9332,Dane Scarlett,Dane Scarlett
+462635,9339,Joe Gelhardt,Joe Gelhardt
+478912,9356,Carney Chukwuemeka,Carney Chukwuemeka
+173818,9406,Nathan Broadhead,Nathan Broadhead
+481624,9415,Jaden Philogene-Bidace,Jaden Philogene-Bidace
+450542,9461,Jesurun Rak-Sakyi,Jesurun Rak-Sakyi
+450070,9492,Crysencio Summerville,Crysencio Summerville
+248937,9493,Sam Greenwood,Sam Greenwood
+433590,9499,Cody Drameh,Cody Drameh
+441191,9512,Tino Livramento,Valentino Livramento
+449434,9524,Anthony Elanga,Anthony Elanga
+490094,9554,Tim Iroegbunam,Tim Iroegbunam
+154561,9676,David Raya Martin,David Raya
+191866,9677,Kristoffer Ajer,Kristoffer Ajer
+231065,9678,Ethan Pinnock,Ethan Pinnock
+194010,9679,Rico Henry,Rico Henry
+204580,9680,Vitaly Janelt,Vitaly Janelt
+428580,9681,Frank Onyeka,Frank Onyeka
+481405,9682,Mads Bidstrup,Mads Bidstrup
+228044,9683,Mads Bech Sørensen,Mads Bech Sørensen
+216620,9684,Marcus Forss,Marcus Forss
+226956,9685,Mads Roerslev Rasmussen,Mads Roerslev
+213687,9687,Charlie Goode,Charlie Goode
+437742,9689,Albert Sambi Lokonga,Albert Sambi Lokonga
+232223,9690,Folarin Balogun,Folarin Balogun
+437626,9691,Nuno Varela Tavares,Nuno Tavares
+223081,9700,Kristoffer Klaesson,Kristoffer Klaesson
+432830,9733,Nathan Collins,Nathan Collins
+423649,9734,Enock Mwepu,Enock Mwepu
+209045,9735,Taylor Richards,Taylor Richards
+245419,9738,Patson Daka,Patson Daka
+215413,9739,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall
+149065,9740,José Malheiro de Sá,José Sá
+189627,9745,Dimitris Giannoulis,Dimitris Giannoulis
+439509,9746,Christos Tzolis,Christos Tzolis
+220686,9747,Bali Mumba,Bali Mumba
+235546,9748,Jacob Sørensen,Jacob Sørensen
+466404,9833,Andrew Omobamidele,Andrew Omobamidele
+433979,9912,Cameron Archer,Cameron Archer
+432160,9914,Shandon Baptiste,Shandon Baptiste
+232247,9915,Dominic Thompson,Dominic Thompson
+450550,9916,Finley Stevens,Finley Stevens
+464618,9933,Liam McCarron,Liam McCarron
+443661,9948,Michael Olise,Michael Olise
+130036,9957,Ozan Tufan,Ozan Tufan
+473342,10001,Stuart McKinstry,Stuart McKinstry
+461421,10027,Lewis Dobbin,Lewis Dobbin
+477547,10028,Leo Fuhr Hjelde,Leo Fuhr Hjelde
+441192,10036,Jeremy Sarmiento,Jeremy Sarmiento
+441024,10061,Harrison Ashby,Harrison Ashby
+440148,10091,Tyler Morton,Tyler Morton
+154138,10092,Tariqe Fosu-Henry,Tariqe Fosu-Henry
+428626,10097,Przemyslaw Placheta,Przemyslaw Placheta
+496185,10118,Kaide Gordon,Kaide Gordon
+432714,10126,James McAtee,James McAtee
+496228,10141,Sonny Perkins,Sonny Perkins
+461587,10166,Kasey McAteer,Kasey McAteer
+483365,10172,Jonathan Rowe,Jonathan Rowe
+487117,10177,Evan Ferguson,Evan Ferguson
+478028,10203,Kayky da Silva Chagas,Kayky
+442335,10290,Edo Kayembe,Edo Kayembe
+224967,10291,Vitalii Mykolenko,Vitalii Mykolenko
+510362,10293,Toti António Gomes,Toti
+183656,10405,Pelenda Joshua Dasilva,Josh Dasilva
+244731,10408,Luis Díaz,Luis Díaz
+440120,10424,Daniel Chesters,Daniel Chesters
+461026,9741,Chem Campbell,Chem Campbell
+232620,10168,Lewis Brunt,Lewis Brunt
+486672,9453,Moisés Caicedo,Moisés Caicedo
+465527,9558,Hannibal Mejbri,Hannibal Mejbri
+493105,10552,Alejandro Garnacho Ferreyra,Alejandro Garnacho
+174593,8758,Kyle Edwards,Kyle Edwards
+432656,8045,Eric Garcia,Eric Garcia
+101394,6932,Okay Yokuslu,Okay Yokuslu
+78356,848,Charlie Austin,Charlie Austin
+69140,1699,Shkodran Mustafi,Shkodran Mustafi
+108053,8905,Conor Townsend,Conor Townsend
+37402,749,Christian Fuchs,Christian Fuchs
+492066,9219,Niall Huggins,Niall Huggins
+59940,964,Kyle Bartley,Kyle Bartley
+36903,2251,Gareth Bale,Gareth Bale
+18987,1691,Robert Snodgrass,Robert Snodgrass
+151086,1299,Mario Lemina,Mario Lemina
+167473,6231,José Izquierdo,José Izquierdo
+50229,1737,Matt Phillips,Matt Phillips
+169528,8940,Antonee Robinson,Antonee Robinson
+155197,8918,Max Lowe,Max Lowe
+79934,7710,Oliver Norwood,Oliver Norwood
+220738,6350,Jayson Molumby,Jayson Molumby
+76357,6835,Tom Cairney,Tom Cairney
+180294,7390,Karlan Grant,Karlan Grant
+109638,9163,Kean Bryan,Kean Bryan
+109646,5590,Tosin Adarabioyo,Tosin Adarabioyo
+151119,727,DeAndre Yedlin,DeAndre Yedlin
+82514,7184,Tim Ream,Tim Ream
+101982,978,Sam Johnstone,Sam Johnstone
+92259,6840,Neeskens Kebano,Neeskens Kebano
+447093,9257,Allan Tchaptchet,Allan Tchaptchet
+179830,6651,Grady Diangana,Grady Diangana
+244858,9501,Fabio Carvalho,Fabio Carvalho
+153723,7708,John Lundstram,John Lundstram
+178304,1748,Lys Mousset,Lys Mousset
+58498,573,Odion Ighalo,Odion Ighalo
+47247,7709,John Fleck,John Fleck
+61600,8757,Romaine Sawyers,Romaine Sawyers
+440993,9307,Iliman Ndiaye,Iliman Ndiaye
+167074,5973,Kenny Tete,Kenny Tete
+465572,9250,Reda Khadra,Reda Khadra
+164011,9290,Mbaye Diagne,Mbaye Diagne
+200878,8966,Filip Krovinovic,Filip Krovinovic
+41135,682,Branislav Ivanovic,Branislav Ivanovic
+15033,748,Wes Morgan,Wes Morgan
+38588,9423,Gaetano Berardi,Gaetano Berardi
+37572,619,Sergio Agüero,Sergio Agüero
+40142,537,Andy Carroll,Andy Carroll
+103123,6144,Sébastien Haller,Sébastien Haller
+194794,703,Fikayo Tomori,Fikayo Tomori
+230127,9249,Percy Tau,Percy Tau
+166640,6892,Fabián Balbuena,Fabián Balbuena
+101105,6834,Joe Bryan,Joe Bryan
+19188,512,Scott Dann,Scott Dann
+449781,8511,Alexandre Jankewitz,Alexandre Jankewitz
+461566,9557,William Fish,William Fish
+179456,8227,Oskar Buur,Oskar Buur
+82691,7706,George Baldock,George Baldock
+41733,771,Georginio Wijnaldum,Georginio Wijnaldum
+456966,9256,Caleb Watts,Caleb Watts
+159506,725,Ola Aina,Ola Aina
+153366,910,Harrison Reed,Harrison Reed
+49944,1689,Jake Livermore,Jake Livermore
+195864,1013,Sam Field,Sam Field
+47390,710,Neil Taylor,Neil Taylor
+430367,8566,Joel Mumbongo,Joel Mumbongo
+432931,9552,Tyrese Francois,Tyrese Francois
+176420,4391,Darnell Furlong,Darnell Furlong
+49957,3231,Kamil Grosicki,Kamil Grosicki
+471848,9540,Femi Seriki,Femi Seriki
+50472,589,James McCarthy,James McCarthy
+61739,3304,Maxime Le Marchand,Maxime Le Marchand
+27436,7711,David McGoldrick,David McGoldrick
+197937,5256,Oliver Burke,Oliver Burke
+38716,6822,Lee Peltier,Lee Peltier
+149828,1682,Islam Slimani,Islam Slimani
+40784,485,Mamadou Sakho,Mamadou Sakho
+207189,8285,Sander Berge,Sander Berge
+232797,7326,Kayne Ramsay,Kayne Ramsay
+109434,6067,Terence Kongolo,Terence Kongolo
+201084,549,Timothy Fosu-Mensah,Timothy Fosu-Mensah
+108416,7703,John Egan,John Egan
+226182,9205,Jayden Bogle,Jayden Bogle
+155529,8704,Marek Rodák,Marek Rodák
+472464,9359,Shola Shoretire,Shola Shoretire
+195473,5569,Rhian Brewster,Rhian Brewster
+90517,789,Robbie Brady,Robbie Brady
+195480,5587,Josh Maja,Josh Maja
+487836,9222,Antwoine Hackford,Antwoine Hackford
+443296,9209,Theo Corbeanu,Theo Corbeanu
+105377,8722,Ezgjan Alioski,Ezgjan Alioski
+421796,9395,Sidnei Tavares,Sidnei Tavares
+197030,4866,Aboubakar Kamara,Aboubakar Kamara
+218023,8481,Jimmy Dunne,Jimmy Dunne
+455084,8919,Leif Davis,Leif Davis
+50093,6843,David Button,David Button
+232881,9311,Thakgalo Leshabela,Thakgalo Leshabela
+18867,7712,Billy Sharp,Billy Sharp
+84915,5274,Michael Hector,Michael Hector
+523700,9509,Daniel Jebbison,Daniel Jebbison
+42427,545,Kieran Gibbs,Kieran Gibbs
+228798,6162,Cengiz Ünder,Cengiz Ünder
+40386,7704,Chris Basham,Chris Basham
+63426,7707,Enda Stevens,Enda Stevens
+214470,8493,Jake Vokins,Jake Vokins
+167878,7714,Ben Osborn,Ben Osborn
+171975,4476,Callum Robinson,Callum Robinson
+169432,1736,Oliver McBurnie,Oliver McBurnie
+19419,699,Gary Cahill,Gary Cahill
+7645,587,Phil Jagielka,Phil Jagielka
+83427,8286,Jack Robinson,Jack Robinson
+210407,7153,Matheus Pereira,Matheus Pereira
+72681,7077,Denis Odoi,Denis Odoi
+232427,5562,Rekeem Harper,Rekeem Harper
+74230,730,Patrick van Aanholt,Patrick van Aanholt
+37339,1685,Ahmed El Mohamady,Ahmed Elmohamady
+128389,773,Aleksandar Mitrović,Aleksandar Mitrovic
+131897,2385,Mathew Ryan,Mat Ryan
+200088,7983,Daniel N'Lundulu,Daniel N'Lundulu
+146610,7705,Jack O'Connell,Jack O'Connell
+216616,8756,Dara O'Shea,Dara O'Shea
+73314,2361,Willian José Da Silva,Willian José
+77777,3979,Ahmed El-Sayed Hegazy,Ahmed Hegazy
+245824,7395,Carlos Vinicius Alves Morais,Carlos Vinicius
+182539,2446,Daniel Ceballos Fernández,Dani Ceballos
+101537,1208,Felipe Anderson Pereira Gomes,Felipe Anderson
+96994,6827,Bobby Decordova-Reid,Bobby Reid
+166324,3683,Ivan Ricardo Neves Abreu Cavaleiro,Ivan Cavaleiro
+203325,6434,André-Frank Zambo Anguissa,Franck Zambo
+41270,1676,David Luiz Moreira Marinho,David Luiz
+216054,6856,Rúben Gonçalo Silva Nascimento Vinagre,Rúben Vinagre
+47431,700,Willian Borges Da Silva,Willian
+209362,5245,Bernardo Fernandes da Silva Junior,Bernardo
+49440,1738,Hal Robson-Kanu,Hal Robson-Kanu
+168765,661,Josh Onomah,Josh Onomah
+146426,4490,Oluwasemilogo Adesewo Ibidapo Ajayi,Semi Ajayi
+18440,8061,Leon Clarke,Leon Clarke
+235530,8090,Lloyd Kelly,Lloyd Kelly
+466955,8216,Brandon Pierrick,Brandon Pierrick
+38411,495,Nacho Monreal,Nacho Monreal
+58893,550,Marcos Rojo,Marcos Rojo
+232977,7602,Kelland Watts,Kelland Watts
+154131,7823,Jack Stacey,Jack Stacey
+196118,47,Yoshinori Muto,Yoshinori Muto
+113688,599,Oumar Niasse,Oumar Niasse
+168991,6034,Philip Billing,Philip Billing
+38439,572,Etienne Capoue,Etienne Capoue
+135720,5261,Kevin Danso,Kevin Danso
+56872,463,Junior Stanislas,Junior Stanislas
+77359,5073,Florian Lejeune,Florian Lejeune
+20529,882,Glenn Murray,Glenn Murray
+38454,602,Dejan Lovren,Dejan Lovren
+80447,845,Maya Yoshida,Maya Yoshida
+57410,611,Nicolás Otamendi,Nicolás Otamendi
+87121,8046,Kieron Freeman,Kieron Freeman
+153682,5596,Harry Wilson,Harry Wilson
+56917,458,Steve Cook,Steve Cook
+223332,8383,Faustino Anjorin,Faustino Anjorin
+74854,7715,Simon Moore,Simon Moore
+40564,7727,Henri Lansbury,Henri Lansbury
+223349,8254,Indiana Vassilev,Indiana Vassilev
+168566,1729,Georges-Kévin Nkoudou,Georges-Kévin Nkoudou
+171129,5065,Diego Rico,Diego Rico
+61566,1723,Roberto Pereyra,Roberto Pereyra
+74375,3873,Ezequiel Schelotto,Ezequiel Schelotto
+86153,1950,Martín Montoya,Martín Montoya
+461450,8480,Max Thompson,Max Thompson
+209041,5598,Angel Gomes,Angel Gomes
+220307,8066,Arnaut Danjuma Groeneveld,Arnaut Danjuma Groeneveld
+81048,209,Josip Drmic,Josip Drmic
+147612,8472,Richairo Zivkovic,Richairo Zivkovic
+61603,752,Daniel Drinkwater,Daniel Drinkwater
+223911,7384,Chris Mepham,Chris Mepham
+20145,524,Adrian Mariappa,Adrian Mariappa
+20658,610,Pablo Zabaleta,Pablo Zabaleta
+20664,617,David Silva,David Silva
+183487,5567,Nathan Holland,Nathan Holland
+54469,825,Adam Smith,Adam Smith
+128198,1734,Sofiane Boufal,Sofiane Boufal
+94924,591,Gerard Deulofeu,Gerard Deulofeu
+52940,764,Daryl Janmaat,Daryl Janmaat
+21205,1651,Tom Heaton,Tom Heaton
+111317,6820,David Brooks,David Brooks
+232667,8080,Akin Famewo,Akin Famewo
+141020,338,Max Meyer,Max Meyer
+229600,7582,Mark Travers,Mark Travers
+222434,6410,Jack Simpson,Jack Simpson
+37605,499,Mesut Özil,Mesut Özil
+74471,6033,Aaron Mooy,Aaron Mooy
+49384,733,Jack Rodwell,Jack Rodwell
+18665,791,Alexander Tettey,Alexander Tettey
+37614,12,Mario Vrancic,Mario Vrancic
+8432,1374,José Reina,José Reina
+217331,5602,Sam Surridge,Sam Surridge
+59125,519,Connor Wickham,Connor Wickham
+19194,8082,David Martin,David Martin
+42748,6105,Gaëtan Bong,Gaëtan Bong
+41727,787,Ryan Bennett,Ryan Bennett
+447235,8145,Troy Parrott,Troy Parrott
+124165,925,Patrick Roberts,Patrick Roberts
+181008,2673,Albian Ajeti,Albian Ajeti
+155408,1789,Lewis Cook,Lewis Cook
+42774,551,Morgan Schneiderlin,Morgan Schneiderlin
+39194,640,Jan Vertonghen,Jan Vertonghen
+15149,456,Simon Francis,Simon Francis
+116543,6352,Valentino Lazaro,Valentino Lazaro
+90440,7692,Tom Trybull,Tom Trybull
+42824,667,Carlos Sánchez,Carlos Sánchez
+175946,2390,Víctor Camarasa,Víctor Camarasa
+54102,1036,Jack Wilshere,Jack Wilshere
+128348,3358,Ibrahim Amadou,Ibrahim Amadou
+444253,8518,Jordan Thomas,Jordan Thomas
+168290,6997,Ignacio Pussetto,Ignacio Pussetto
+87396,1217,Moritz Leitner,Moritz Leitner
+139110,5240,Ondrej Duda,Ondrej Duda
+41320,459,Charlie Daniels,Charlie Daniels
+33148,1731,Claudio Bravo,Claudio Bravo
+179587,7822,Dennis Srbeny,Dennis Srbeny
+15237,460,Andrew Surman,Andrew Surman
+182156,337,Leroy Sané,Leroy Sané
+90518,1883,Ravel Morrison,Ravel Morrison
+234908,6306,Juan Foyth,Juan Foyth
+84384,162,Timm Klose,Timm Klose
+222625,8563,George Hirst,George Hirst
+57249,317,Henrikh Mkhitaryan,Henrikh Mkhitaryan
+40868,568,José Holebas,José Holebas
+49083,7713,Luke Freeman,Luke Freeman
+154566,1679,Dominic Solanke,Dominic Solanke
+126407,914,Nabil Bentaleb,Nabil Bentaleb
+12745,588,Leighton Baines,Leighton Baines
+96767,2509,Dimitri Foulquier,Dimitri Foulquier
+98770,250,Ørjan Nyland,Ørjan Nyland
+222677,7439,Tahith Chong,Tahith Chong
+41945,566,Sebastian Prödl,Sebastian Prödl
+232928,7438,James Garner,James Garner
+102884,973,Paulo Gazzaniga,Paulo Gazzaniga
+54756,836,Victor Wanyama,Victor Wanyama
+152551,2182,Jefferson Lerma,Jefferson Lerma
+103912,481,Jordon Ibe,Jordon Ibe
+54764,7725,Jonathan Kodjia,Jonathan Kodjia
+104953,2344,Christian Atsu,Christian Atsu
+92159,6143,Jetro Willems,Jetro Willems
+102747,3357,Djibril Sidibé,Djibril Sidibe
+28082,330,Ralf Fahrmann,Ralf Fährmann
+87447,908,Muhamed Bešić,Muhamed Besic
+61604,4441,Matty James,Matthew James
+173514,1724,Isaac Success Ajayi,Isaac Success
+40694,5087,Roberto Jimenez Gago,Roberto Jiménez
+178876,5234,Jesús Vallejo Lázaro,Jesús Vallejo
+195774,8257,Gedson Carvalho Fernandes,Gedson Fernandes
+76542,723,Sung-yueng Ki,Ki Sung-yueng
+39476,371,Sokratis Papastathopoulos,Sokratis
+83091,1701,Borja González Tomás,Borja Bastón
+49579,687,Pedro Rodríguez Ledesma,Pedro
+145235,1040,José Ángel Esmorís Tasende,Angelino
+43020,191,Javier Hernández Balcázar,Chicharito
+89274,2132,José Ignacio Peleteiro Romallo,Jota
+510363,10327,Francisco Jorge Tomás Oliveira Chiquinho,Chiquinho
+437858,8777,Vitor Ferreira Vitinha,Vitinha
+
+95463,473,Danny Ward,Danny Ward
+446281,10525,Tony Springett,Tony Springett
+491559,9470,Isaac Price,Isaac Price
+460029,10150,Nathan Young-Coombes,Nathan Young-Coombes
+432711,10174,Conrad Egan-Riley,CJ Egan-Riley
+143877,6531,Alexander Sørloth,Alexander Sørloth
+54284,6032,Chris Löwe,Chris Löwe
+168977,6041,Joel Coleman,Joel Coleman
+233497,5740,Adama Diakhaby,Adama Diakhaby
+94248,2072,Sergio Rico,Sergio Rico
+75826,6830,Danny Ward,Danny Ward
+74297,674,Leandro Bacuna,Leandro Bacuna
+108093,2274,Luciano Vietto,Luciano Vietto
+78911,7120,Kadeem Harris,Kadeem Harris
+19520,5176,Ryan Babel,Ryan Babel
+40002,557,Matteo Darmian,Matteo Darmian
+19523,4027,Sol Bamba,Sol Bamba
+87107,6833,Cyrus Christie,Cyrus Christie
+17476,612,Vincent Kompany,Vincent Kompany
+11334,491,Petr Cech,Petr Cech
+114245,6828,Josh Murphy,Josh Murphy
+76360,6824,Nathaniel Mendez-Laing,Nathaniel Mendez-Laing
+78412,754,Shinji Okazaki,Shinji Okazaki
+20046,1763,Stefano Okaka,Stefano Okaka
+193109,7335,Callum Slattery,Callum Slattery
+83543,4497,Anthony Knockaert,Anthony Knockaert
+38490,6409,Beram Kayal,Beram Kayal
+221275,636,Luke Dreher,Luke Dreher
+204380,7219,Juninho Bacuna,Juninho Bacuna
+246878,6296,Abdelhamid Sabiri,Abdelhamid Sabiri
+104545,6029,Tommy Smith,Tommy Smith
+118884,2640,Erik Durm,Erik Durm
+55909,628,Chris Smalling,Chris Smalling
+165990,1730,Vincent Janssen,Vincent Janssen
+43626,202,Håvard Nordtveit,Håvard Nordtveit
+61548,1383,Manolo Gabbiadini,Manolo Gabbiadini
+104073,6825,Joe Ralls,Joe Ralls
+45196,6829,Gary Madine,Gary Madine
+51344,6036,Rajiv van La Parra,Rajiv van La Parra
+84112,6035,Collin Quaner,Collin Quaner
+115858,3276,Rachid Ghezzal,Rachid Ghezzal
+54421,3328,Floyd Ayité,Floyd Ayité
+38038,1759,Ben Hamer,Ben Hamer
+56981,959,Joe Bennett,Joe Bennett
+82078,6928,Kenneth Zohore,Kenneth Zohore
+88734,6821,Neil Etheridge,Neil Etheridge
+167075,1203,Wesley Hoedt,Wesley Hoedt
+204454,5662,Isaac Mbenza,Isaac Mbenza
+40616,1655,Stephen Ward,Stephen Ward
+49845,7199,Aron Gunnarsson,Aron Gunnarsson
+169141,3800,Steve Mounie,Steve Mounie
+3773,872,Peter Crouch,Peter Crouch
+39104,642,Mousa Dembélé,Mousa Dembélé
+204481,7314,Tyreke Johnson,Tyreke Johnson
+27335,1303,Stephan Lichtsteiner,Stephan Lichtsteiner
+155851,1700,Lucas Pérez,Lucas Pérez
+172246,5215,Florent Hadergjonaj,Florent Hadergjonaj
+20695,627,Antonio Valencia,Antonio Valencia
+100059,608,Alberto Moreno,Alberto Moreno
+41184,630,Marouane Fellaini,Marouane Fellaini
+105700,1178,Davide Zappacosta,Davide Zappacosta
+49382,4883,Bruno Ecuele Manga,Bruno Ecuele Manga
+54513,2065,Vicente Iborra,Vicente Iborra
+175351,7437,Demeaco Duhaney,Demeaco Duhaney
+19197,514,Jason Puncheon,Jason Puncheon
+55038,6836,Kevin McDonald,Kevin McDonald
+54527,7215,Loïc Damour,Loïc Damour
+79619,6301,Jonathan Hogg,Jonathan Hogg
+52484,394,Leon Balogun,Leon Balogun
+149266,1727,Alfie Mawson,Alfie Mawson
+40725,746,Danny Simpson,Danny Simpson
+7958,735,Jermain Defoe,Jermain Defoe
+66842,154,André Schürrle,André Schürrle
+153371,4483,Sam Gallagher,Sam Gallagher
+170271,3312,Jean Michael Seri,Jean Michael Seri
+11554,523,Julian Speroni,Julian Speroni
+42786,701,Eden Hazard,Eden Hazard
+18726,455,Artur Boruc,Artur Boruc
+40232,1293,Gonzalo Higuaín,Gonzalo Higuaín
+192301,2641,Jon Gorenc Stankovic,Jon Gorenc Stankovic
+205102,1764,Ramadan Sobhi,Ramadan Sobhi
+39215,651,Michel Vorm,Michel Vorm
+19760,1728,Fernando Llorente,Fernando Llorente
+440113,7487,Aaron Rowe,Aaron Rowe
+51507,494,Laurent Koscielny,Laurent Koscielny
+40755,483,Daniel Sturridge,Daniel Sturridge
+44343,520,Bakary Sako,Bakary Sako
+168764,6819,Luke Amos,Luke Amos
+49982,6823,Sean Morrison,Sean Morrison
+159039,1181,Antonio Barreca,Antonio Barreca
+41792,504,Aaron Ramsey,Aaron Ramsey
+131403,7340,Rhys Healey,Rhys Healey
+147303,6038,Laurent Depoitre,Laurent Depoitre
+80755,6037,Danny Williams,Danny Williams
+49013,541,Victor Moses,Victor Moses
+85368,6031,Christopher Schindler,Christopher Schindler
+79228,513,Pape Souaré,Pape Souaré
+80254,938,Carl Jenkinson,Carl Jenkinson
+59779,542,Pedro Obiang,Pedro Obiang
+87428,248,Elias Kachunga,Elias Kachunga
+217989,6666,Rafael Camacho,Rafael Camacho
+28554,877,Samir Nasri,Samir Nasri
+37265,498,Alexis Sánchez,Alexis Sánchez
+80801,668,Idrissa Gueye,Idrissa Gueye
+88482,1804,Álvaro Morata,Álvaro Morata
+39847,1657,Steven Defour,Steven Defour
+122797,6826,Callum Paterson,Callum Paterson
+109999,6839,Ibrahima Cissé,Ibrahima Cissé
+52153,567,Miguel Britos,Miguel Britos
+17339,883,Steven Davis,Steven Davis
+59846,552,Ander Herrera,Ander Herrera
+40399,1661,Sam Vokes,Sam Vokes
+106450,815,Alex Pritchard,Alex Pritchard
+17878,686,Cesc Fàbregas,Cesc Fàbregas
+61916,6838,Stefan Johansen,Stefan Johansen
+89572,2308,Denis Suárez,Denis Suárez
+122342,6457,Emerson Hyndman,Emerson Hyndman
+48615,881,Harry Arter,Harry Arter
+28147,4471,Mohamed Diamé,Mohamed Diamé
+41464,865,Marko Arnautovic,Marko Arnautovic
+99323,4406,Lazar Markovic,Lazar Markovic
+80792,6831,Greg Cunninghamm,Greg Cunningham
+210207,5767,Fousseni Diabaté,Fousseni Diabate
+153379,5565,Joshua Sims,Josh Sims
+49806,4395,David Junior Hoilett,Junior Hoilett
+73459,4467,Ashley Darel Jazz Richards,Jazz Richards
+46483,6464,Adrien Sebastian Perruchet Silva,Adrien Silva
+61316,866,Jose Luis Mato Sanmartín Joselu,Joselu
+209925,7312,Alexandre Nascimento Costa Silva Xande Silva,Xande Silva
+450314,7458,Matthew Daly,Matty Daly
+141569,6855,Bonatini Lohner Maia Bonatini,Léo Bonatini
+11352,6046,Bruno Saltor Grau,Bruno
+40559,2587,Fabricio Agosto Ramírez,Fabri
+100180,2244,Danilo Luiz da Silva,Danilo
+167767,689,Robert Kenedy Nunes do Nascimento,Kenedy
+20481,867,Stephen Ireland,Stephen Ireland
+174594,6544,Lukas Nmecha,Lukas Nmecha
+43521,778,Henri Saivet,Henri Saivet
+109065,6045,Davy Klaassen,Davy Klaassen
+92170,943,Massadio Haidara,Massadio Haidara
+12813,863,Jonathan Walters,Jonathan Walters
+55829,808,Claudio Yacob,Claudio Yacob
+172567,1018,Josh Cullen,Josh Cullen
+56864,497,Francis Coquelin,Francis Coquelin
+54316,756,Leonardo Ulloa,Leonardo Ulloa
+96305,896,Jay Fulton,Jay Fulton
+11829,719,Wayne Routledge,Wayne Routledge
+100412,6230,André Carrillo,André Carrillo
+221245,6283,Levi Lumeka,Levi Lumeka
+44604,575,Nordin Amrabat,Nordin Amrabat
+45124,713,André Ayew,André Ayew
+42564,339,Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting
+20037,466,Marc Pugh,Marc Pugh
+33871,265,Ragnar Klavan,Ragnar Klavan
+9808,1741,Zlatan Ibrahimovic,Zlatan Ibrahimovic
+221267,1745,Josh Tymon,Josh Tymon
+18006,6344,Martin Cranie,Martin Cranie
+6744,1742,Lee Grant,Lee Grant
+18008,990,James Morrison,James Morrison
+21083,783,Nathan Dyer,Nathan Dyer
+104542,37,Loris Karius,Loris Karius
+1632,590,Gareth Barry,Gareth Barry
+98914,3424,Guido Carrillo,Guido Carrillo
+38499,4046,Tomer Hemed,Tomer Hemed
+40555,480,Joe Allen,Joe Allen
+19568,864,Ibrahim Afellay,Ibrahim Afellay
+216183,6421,Brahim Diaz,Brahim Diaz
+54908,648,Nacer Chadli,Nacer Chadli
+49277,711,Leroy Fer,Leroy Fer
+19071,4258,Uwe Hünemeier,Uwe Hünemeier
+85128,6299,Connor Goldson,Connor Goldson
+169102,3429,Tiemoué Bakayoko,Tiemoué Bakayoko
+171162,2147,Charly Musonda,Charly Musonda
+55452,518,Yannick Bolasie,Yannick Bolasie
+86176,4454,Tom Ince,Tom Ince
+73889,656,Diafra Sakho,Diafra Sakho
+133801,972,Jerome Sinclair,Jerome Sinclair
+57001,622,Wilfried Bony,Wilfried Bony
+16045,571,Ben Watson,Ben Watson
+200884,6561,Tyrese Campbell,Tyrese Campbell
+60598,5219,Aleksandar Dragovic,Aleksandar Dragovic
+8380,655,James Collins,James Collins
+135365,3544,Jeremie Boga,Jeremie Boga
+163526,1673,Edimilson Fernandes,Edimilson Fernandes
+66247,6303,Marvin Zeegelaar,Marvin Zeegelaar
+48332,1138,Orestis Karnezis,Orestis Karnezis
+27341,516,Yohan Cabaye,Yohan Cabaye
+19151,904,Chris Brunt,Chris Brunt
+97485,650,Kevin Wimmer,Kevin Wimmer
+48844,505,David Ospina,David Ospina
+112338,604,Emre Can,Emre Can
+19159,709,Ashley Williams,Ashley Williams
+103127,1159,Molla Wagué,Molla Wagué
+13017,629,Wayne Rooney,Wayne Rooney
+92383,6389,Nahki Wells,Nahki Wells
+18656,564,Heurelho Gomes,Heurelho Gomes
+173792,543,Reece Oxford,Reece Oxford
+7906,511,Damien Delaney,Damien Delaney
+17127,507,Per Mertesacker,Per Mertesacker
+149736,849,Chancel Mbemba,Chancel Mbemba
+168172,6139,Joe Lolley,Joe Lolley
+226029,6657,Lasse Sorenson,Lasse Sorenson
+66797,487,Simon Mignolet,Simon Mignolet
+20208,873,Charlie Adam,Charlie Adam
+57586,5554,Luciano Narsingh,Luciano Narsingh
+39158,1659,Scott Arfield,Scott Arfield
+14075,1298,Patrice Evra,Patrice Evra
+200455,1777,Julien Ngoy,Julien Ngoy
+15114,830,Leon Britton,Leon Britton
+195855,6384,Beni Baningime,Beni Baningime
+26901,595,Kevin Mirallas,Kevin Mirallas
+73494,2414,Grzegorz Krychowiak,Grzegorz Krychowiak
+93464,653,Tom Carroll,Tom Carroll
+138009,1070,Sullay Kaikai,Sullay Kaikai
+57112,626,Eliaquim Mangala,Eliaquim Mangala
+153373,1733,Sam McQueen,Sam McQueen
+43808,379,Markus Suttner,Markus Suttner
+15137,4462,Liam Rosenior,Liam Rosenior
+58877,548,Daley Blind,Daley Blind
+28462,6430,Sam Baldock,Sam Baldock
+87856,6039,Michael Hefele,Michael Hefele
+74033,1690,Sam Clucas,Sam Clucas
+12086,820,Boaz Myhill,Boaz Myhill
+171319,5228,Renato Sanches,Renato Sanches
+195384,5304,Mikel Merino,Mikel Merino
+209212,5593,Thomas Edwards,Thomas Edwards
+210237,1669,Marko Grujic,Marko Grujic
+91972,811,Saido Berahino,Saido Berahino
+93001,368,Konstantinos Stafylidis,Konstantinos Stafylidis
+19272,806,Gareth McAuley,Gareth McAuley
+97615,1702,Mike van der Hoorn,Mike van der Hoorn
+9047,944,Glen Johnson,Glen Johnson
+13152,784,Andy King,Andy King
+2404,654,Michael Carrick,Michael Carrick
+60772,680,Thibaut Courtois,Thibaut Courtois
+85352,1743,Bruno Martins Indi,Bruno Martins Indi
+41321,974,Yohan Benalouane,Yohan Benalouane
+37742,736,Younes Kaboul,Younes Kaboul
+79733,6040,Scott Malone,Scott Malone
+155513,915,Rolando Aarons,Rolando Aarons
+219002,5706,Dodi Lukebakio,Dodi Lukebakio
+56192,832,Cuco Martina,Cuco Martina
+40833,1784,Jérémy Pied,Jérémy Pied
+49539,718,Kyle Naughton,Kyle Naughton
+112516,4481,Isaiah Brown,Isaiah Brown
+121221,597,Ramiro Funes Mori,Ramiro Funes Mori
+63370,814,James McClean,James McClean
+106899,2356,Roque Mesa,Roque Mesa
+42899,560,Sergio Romero,Sergio Romero
+108438,2537,Sandro Ramírez,Sandro Ramírez
+61858,868,Mame Biram Diouf,Mame Biram Diouf
+50089,859,Geoff Cameron,Geoff Cameron
+88498,826,Benik Afobe,Benik Afobe
+160190,705,Kasey Palmer,Kasey Palmer
+62399,840,Dusan Tadic,Dusan Tadic
+2513,6052,Jamie Murphy,Jamie Murphy
+5589,6328,Dean Whitehead,Dean Whitehead
+14295,809,Darren Fletcher,Darren Fletcher
+102366,5453,Moritz Bauer,Moritz Bauer
+37869,886,Ryan Shawcross,Ryan Shawcross
+28654,798,Martin Olsson,Martin Olsson
+42996,707,Angel Rangel,Angel Rangel
+38580,834,Jose Fonte,José Fonte
+27462,2329,Jesús Gámez Duarte,Jesús Gámez
+14664,878,Gnegneri Yaya Touré,Yaya Touré
+75773,526,Chung-yong Lee Lee Chung-yong,Lee Chung-yong
+163463,6525,Papa Alioune Ndiaye Badou Ndiaye,Badou Ndiaye
+94926,1778,Olayinka Fredrick Oladotun Ladapo,Freddie Ladapo
+109788,1512,João Mário Naval Costa Eduardo,João Mário
+40276,871,Bojan Krkic Perez,Bojan
+67527,565,Allan-Roméo Nyom,Nyom
+93127,2256,Jesé Rodríguez Ruiz,Jesé
+20487,726,Vito Mannone,Vito Mannone
+37388,760,Marcin Wasilewski,Marcin Wasilewski
+37901,536,Dimitri Payet,Dimitri Payet
+15885,469,Adam Federici,Adam Federici
+38419,690,Loïc Remy,Loïc Remy
+45076,728,Lamine Koné,Lamine Koné
+149016,1027,Lynden Gooch,Lynden Gooch
+49696,939,Mauro Zárate,Mauro Zárate
+80935,1071,Papy Djilobodji,Papy Djilobodji
+49195,715,Jefferson Montero,Jefferson Montero
+39472,795,Dieumerci Mbokani,Dieumerci Mbokani
+160816,1048,Donald Love,Donald Love
+96306,892,Stephen Kingsley,Stephen Kingsley
+49207,671,Rudy Gestede,Rudy Gestede
+27707,921,Darron Gibson,Darron Gibson
+82428,1710,Marten de Roon,Marten de Roon
+32318,945,Marc Wilson,Marc Wilson
+19524,965,Santiago Cazorla,Santiago Cazorla
+15944,1668,Michael Kightly,Michael Kightly
+10318,846,Maarten Stekelenburg,Maarten Stekelenburg
+219727,1754,Joel Asoro,Joel Asoro
+20047,1714,Jordan Rhodes,Jordan Rhodes
+28244,1656,George Boyd,George Boyd
+90714,1681,Ahmed Musa,Ahmed Musa
+42593,621,Aleksandar Kolarov,Aleksandar Kolarov
+19556,1787,David Jones,David Jones
+75880,1718,Daniel Ayala,Daniel Ayala
+106603,1671,Ezekiel Fryers,Ezekiel Fryers
+49773,1782,Albert Adomah,Albert Adomah
+15982,1658,Dean Marney,Dean Marney
+19057,740,Sebastian Larsson,Sebastian Larsson
+53371,1693,David Meyler,David Meyler
+12413,747,Robert Huth,Robert Huth
+21123,570,Valon Behrami,Valon Behrami
+92293,5551,Omar Elabdellaoui,Omar Elabdellaoui
+115854,919,Duncan Watmore,Duncan Watmore
+77454,737,Fabio Borini,Fabio Borini
+85654,837,Jordy Clasie,Jordy Clasie
+90263,5576,James Husband,James Husband
+61595,860,Marc Muniesa,Marc Muniesa
+59044,1717,Adam Clayton,Adam Clayton
+19115,1686,Curtis Davies,Curtis Davies
+111787,720,Modou Barrow,Modou Barrow
+43693,1942,Martín Cáceres,Martín Cáceres
+1718,917,John Terry,John Terry
+27334,967,Mathieu Debuchy,Mathieu Debuchy
+11467,742,Billy Jones,Billy Jones
+12496,1705,Víctor Valdés,Víctor Valdés
+148179,539,Enner Valencia,Enner Valencia
+10460,5542,Grant Leadbitter,Grant Leadbitter
+51934,91,Ron-Robert Zieler,Ron-Robert Zieler
+12002,1712,Stewart Downing,Stewart Downing
+111847,1694,Adama Diomande,Adama Diomande
+59115,515,Mile Jedinak,Mile Jedinak
+18155,895,Mathieu Flamini,Mathieu Flamini
+173809,879,Jonathan Leko,Jonathan Leko
+42738,1722,Juan Zuñiga,Juan Zuñiga
+123125,1713,Viktor Fischer,Viktor Fischer
+21246,467,Lewis Grabban,Lewis Grabban
+39167,1522,Andrea Ranocchia,Andrea Ranocchia
+15109,1695,Tom Huddlestone,Tom Huddlestone
+60165,734,Wahbi Khazri,Wahbi Khazri
+231172,5558,Brandon Mason,Brandon Mason
+1801,1667,Paul Robinson,Paul Robinson
+40202,1708,George Friend,George Friend
+78091,952,Gastón Ramírez,Gastón Ramírez
+171277,5574,Demetri Mitchell,Demetri Mitchell
+44302,583,Adlène Guédioura,Adlène Guédioura
+39187,781,Jeremain Lens,Jeremain Lens
+144660,1720,Didier Ndong,Didier Ndong
+108824,909,Brendan Galloway,Brendan Galloway
+191769,1765,Jonathan Benteke,Jonathan Benteke
+11037,816,Rickie Lambert,Rickie Lambert
+49438,632,Jordon Mutch,Jordon Mutch
+1822,889,Shay Given,Shay Given
+28448,738,Lee Cattermole,Lee Cattermole
+15144,1684,David Marshall,David Marshall
+26921,601,Arouna Koné,Arouna Koné
+44336,1674,Sofiane Feghouli,Sofiane Feghouli
+28468,812,Craig Gardner,Craig Gardner
+49464,1709,Cristhian Stuani,Cristhian Stuani
+61760,722,Kristoffer Nordfeldt,Kristoffer Nordfeldt
+18759,1704,Álvaro Arbeloa,Álvaro Arbeloa
+106824,555,Memphis Depay,Memphis Depay
+69960,858,Philipp Wollscheid,Philipp Wollscheid
+91979,490,Jon Flanagan,Jon Flanagan
+243532,5559,Dion Pereira,Dion Pereira
+17740,616,Jesús Navas,Jesús Navas
+243531,5548,Andrew Eleftheriou,Andrew Eleftheriou
+114000,1046,George Honeyman,George Honeyman
+102738,861,Giannelli Imbula,Giannelli Imbula
+82771,1696,Markus Henriksen,Markus Henriksen
+39253,805,Jonas Olsson,Jonas Olsson
+59741,464,Max Gradel,Max Gradel
+34654,1664,Lukas Jutkiewicz,Lukas Jutkiewicz
+168287,1672,Jonathan Calleri,Jonathan Calleri
+154976,323,Adnan Januzaj,Adnan Januzaj
+7525,924,Steven Pienaar,Steven Pienaar
+207725,5563,Daniel Agyei,Daniel Agyei
+60270,1642,Simone Zaza,Simone Zaza
+167789,976,Baily Cargill,Baily Cargill
+37748,625,Bacary Sagna,Bacary Sagna
+18805,517,Joe Ledley,Joe Ledley
+12150,862,Glenn Whelan,Glenn Whelan
+61302,1050,Ryan Allsop,Ryan Allsop
+44413,1670,Steve Mandanda,Steve Mandanda
+28541,634,Fraizer Campbell,Fraizer Campbell
+7551,664,Joleon Lescott,Joleon Lescott
+12679,1744,Michael Dawson,Michael Dawson
+57736,232,Jan Kirchhoff,Jan Kirchhoff
+42892,1715,Álvaro Negredo,Álvaro Negredo
+19342,577,Ikechi Anya,Ikechi Anya
+59796,1703,Gökhan Töre,Gökhan Töre
+80789,721,Jordi Amat,Jordi Amat
+9110,1692,Shaun Maloney,Shaun Maloney
+58791,649,Ryan Mason,Ryan Mason
+15276,4430,Joey Barton,Joey Barton
+114093,920,Matthew Pennington,Matthew Pennington
+20399,1706,Antonio Barragán,Antonio Barragán
+28593,818,Victor Anichebe,Victor Anichebe
+17336,613,Gaël Clichy,Gaël Clichy
+77762,598,Bryan Oviedo,Bryan Oviedo
+12744,1753,David Nugent,David Nugent
+59856,1698,Abel Hernández,Abel Hernández
+106449,479,Kevin Stewart,Kevin Stewart
+204760,5586,Michael Folivi,Michael Folivi
+160729,1039,Jason Denayer,Jason Denayer
+157665,5571,Filip Lesniak,Filip Lesniak
+130025,1680,Luis Hernández,Luis Hernández
+78315,584,Joel Robles,Joel Robles
+91126,1047,Will Keane,Will Keane
+56827,580,Costel Pantilimon,Costel Pantilimon
+156690,5597,Joshua Harrop,Josh Harrop
+224946,5601,Matthew Worthington,Matt Worthington
+120447,477,Bradley Smith,Brad Smith
+41705,662,Bradley Guzan,Brad Guzan
+154051,1762,Oviemuno Ejaria,Ovie Ejaria
+49688,2144,Alfred N'Diaye,Alfred N'Diaye
+234483,1662,Aiden O'Neill,Aiden O'Neill
+96764,1126,M'Baye Niang,M'Baye Niang
+178871,1055,Aleix García Serrano,Aleix García
+3736,729,John O'Shea,John O'Shea
+18507,802,Diego Da Silva Costa,Diego Costa
+160817,559,Patrick McNair,Paddy McNair
+52287,5550,Evandro Goebel,Evandro
+168196,5575,Joel Dinis Castro Pereira Joel Pereira,Joel Pereira
+43191,475,Leiva Lucas,Lucas Leiva
+86173,1732,Manuel Agudo Durán Nolito,Nolito
+48771,1757,Emilio Nsue Lopez,Nsue
+61262,692,Oscar dos Santos Emboaba Junior,Oscar
+158074,493,Gabriel Armando de Abreu,Gabriel
+52538,615,Fernando Francisco Reges,Fernando
+55317,1716,Bernardo Espinosa Zúñiga,Bernardo
+54771,1752,Fabio Pereira da Silva,Fabio
+226944,5789,Boubacar Kamara,Boubacar Kamara
+450434,10804,Deniz Undav,Deniz Undav
+472713,8942,Aaron Hickey,Aaron Hickey
+156687,10742,Ben Pearson,Ben Pearson
+208912,10756,Joe Worrall,Joe Worrall
+249231,10809,Keane Lewis-Potter,Keane Lewis-Potter
+58771,767,Jack Colback,Jack Colback
+460028,10805,Levi Colwill,Levi Colwill
+235674,10716,Manor Solomon,Manor Solomon
+456350,10765,Gavin Bazunu,Gavin Bazunu
+158499,10744,Ryan Christie,Ryan Christie
+220585,10845,Flynn Downes,Flynn Downes
+461358,10846,Julián Álvarez,Julián Álvarez
+193204,10766,Joe Ayodele-Aribo,Joe Ayodele-Aribo
+201658,10741,Marcus Tavernier,Marcus Tavernier
+195899,6253,Gianluca Scamacca,Gianluca Scamacca
+447932,10740,Jordan Zemura,Jordan Zemura
+179519,6088,Orel Mangala,Orel Mangala
+114241,10758,Harry Toffolo,Harry Toffolo
+244930,10761,Alex Mighten,Alex Mighten
+222017,7239,Conor Coventry,Conor Coventry
+220237,8635,Sven Botman,Sven Botman
+200785,7352,Tyler Adams,Tyler Adams
+242898,10760,Brennan Johnson,Brennan Johnson
+224209,10750,Rasmus Kristensen,Rasmus Kristensen
+128340,10743,Kieffer Moore,Kieffer Moore
+168281,10757,Scott McKenna,Scott McKenna
+222690,10803,Tyrell Malacia,Tyrell Malacia
+450535,10698,Malcolm Ebiowei,Malcolm Ebiowei
+210156,7814,Taiwo Awoniyi,Taiwo Awoniyi
+86129,1376,Kalidou Koulibaly,Kalidou Koulibaly
+243571,10292,Nathan Patterson,Nathan Patterson
+427637,10751,Brenden Aaronson,Brenden Aaronson
+223094,8260,Erling Haaland,Erling Haaland
+221820,10802,Lisandro Martínez,Lisandro Martínez
+199170,5989,Moussa Niakhaté,Moussa Niakhate
+171101,5050,Clément Lenglet,Clement Lenglet
+514356,10004,Roméo Lavia,Romeo Lavia
+434662,9686,Halil Dervişoğlu,Halil Dervisoglu
+45034,448,Ivan Perišić,Ivan Perisic
+243345,10759,Lewis O'Brien,Lewis O'Brien
+447203,10720,Darwin Núñez Ribeiro,Darwin Núñez
+154296,10715,João Palhinha Gonçalves,João Palhinha
+234370,5086,Marc Roca Junqué,Marc Roca
+165659,5712,Diego Carlos Santos Silva,Diego Carlos
+438464,8666,Cheick Doucouré C.Doucouré,Cheick Oumar Doucoure
+490146,10718,Jay Stansfield,Jay Stansfield
+427623,8430,Chris Richards,Chris Richards
+477064,10847,Rico Lewis,Rico Lewis
+451340,10806,Kaoru Mitoma,Kaoru Mitoma
+449871,9667,Amadou Onana,Amadou Onana
+120721,983,Kevin Mbabu,Kevin Mbabu
+128309,10865,Jamal Lowe,Jamal Lowe
+476888,8970,Sékou Mara,Sékou Mara
+221466,10864,Marcos Senesi,Marcos Senesi
+477386,9710,Armel Bella-Kotchap,Armel Bella Kotchap
+224995,10866,Luis Sinisterra Lucumí,Luis Sinisterra
+181284,5682,Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes
+166325,5646,Carlos Ribeiro Dias Cafú,Cafú
+444180,10746,Jaidon Anthony,Jaidon Anthony
+440089,8859,Mikkel Damsgaard,Mikkel Damsgaard
+232859,10764,Djed Spence,Djed Spence
+219168,5232,Alexander Isak,Alexander Isak
+204968,11003,Ryan Yates,Ryan Yates
+491970,10997,Bobby Clark,Bobby Clark
+133845,10745,Emiliano Marcondes,Emiliano Marcondes
+437468,6656,Sergio Gómez,Sergio Gómez
+201057,2674,Thilo Kehrer,Thilo Kehrer
+89076,1488,Remo Freuler,Remo Freuler
+535928,10723,Stefan Bajcetic,Stefan Bajcetic
+437753,7282,Giulian Biancone,Giulian Biancone
+518906,11034,Owen Bevan,Owen Bevan
+465351,11000,Matheus Luiz Nunes,Matheus Nunes
+469142,10807,Jan Paul van Hecke Van Hecke,Jan Paul van Hecke
+204214,5136,Pervis Estupiñán,Estupiñán
+224024,7365,Lucas Tolentino Coelho de Lima Paquetá,Lucas Paquetá
+233420,7891,Renan Augusto Lodi dos Santos Renan Lodi,Renan Lodi
+61256,2248,Carlos Henrique Casimiro Casemiro,Casemiro
+69752,1297,Norberto Murara Neto,Neto
+465920,11305,Mykhailo Mudryk,Mykhailo Mudryk
+503301,10348,Omari Hutchinson,Omari Hutchinson
+490503,10072,Samuel Edozie,Samuel Edozie
+474120,11058,Julio Enciso,Julio Enciso
+211975,6490,Manuel Akanji,Manuel Akanji
+499724,11618,Samuel Amo-Ameyaw,Samuel Amo-Ameyaw
+156685,561,Joe Rothwell,Joe Rothwell
+531989,11268,David Ozoh,David Ozoh
+440854,10012,Jakub Kiwior,Jakub Kiwior
+248857,11357,Noni Madueke,Noni Madueke
+448047,11356,Enzo Fernández,Enzo Fernández
+532529,11269,Jack Hinshelwood,Jack Hinshelwood
+184386,11359,James Bree,James Bree
+491598,11544,Cameron Peupion,Cameron Peupion
+496208,11231,Ben Doak,Ben Doak
+243298,11296,Cody Gakpo,Cody Gakpo
+461416,11232,Thomas Cannon,Thomas Cannon
+218218,8646,Wout Faes,Wout Faes
+445548,10453,Odeluga Offiah,Odeluga Offiah
+194190,6329,Harry Souttar,Harry Souttar
+147611,11360,Paul Onuachu,Paul Onuachu
+519327,11509,George Abbott,George Abbott
+240299,10755,Joseph Hodge,Joseph Hodge
+88248,8786,Stefan Ortega Moreno,Stefan Ortega Moreno
+476344,11366,Jhon Durán,Jhon Durán
+198842,10753,Connor Ronan,Connor Ronan
+466117,9274,Naouirou Ahamada,Naouirou Ahamada
+173271,7007,Duje Caleta-Car,Duje Caleta-Car
+463067,6937,Georginio Rutter,Georginio Rutter
+212701,6147,Denis Zakaria,Denis Zakaria
+481510,11367,Victor Kristiansen,Victor Kristiansen
+492776,11233,Dexter Lembikisa,Dexter Lembikisa
+79602,11361,Daniel Bentley,Daniel Bentley
+28411,2243,Keylor Navas,Keylor Navas
+470294,10752,Darko Gyabi,Darko Gyabi
+448791,8458,Harvey White,Harvey White
+516895,11174,Kobbie Mainoo,Kobbie Mainoo
+513834,11193,Andrew Moran,Andrew Moran
+81205,11298,Mislav Orsic,Mislav Orsic
+492859,11155,Wilfried Gnonto,Wilfried Gnonto
+441164,6912,Pedro Porro,Pedro Porro
+536916,11362,Facundo Buonanotte,Facundo Buonanotte
+212314,1537,Sasa Lukic,Sasa Lukic
+463210,11594,Shea Charles,Shea Charles
+241519,5360,Weston McKennie,Weston McKennie
+244085,10749,Siriki Dembélé,Siriki Dembélé
+547719,11386,Lewis Miley,Lewis Miley
+487818,11005,Joseph Whitworth,Joseph Whitworth
+513418,9156,Kevin Schade,Kevin Schade
+477580,11486,Illia Zabarnyi,Illia Zabarnyi
+461201,10579,Matthew Craig,Matthew Craig
+487837,11242,Divin Mubama,Divin Mubama
+487838,10216,Lewis Hall,Lewis Hall
+88484,2199,Pablo Sarabia,Pablo Sarabia
+207270,10808,Daniel Iversen,Daniel Iversen
+502697,11297,Carlos Alcaraz,Carlos Alcaraz
+155561,6083,Ludwig Augustinsson,Ludwig Augustinsson
+220087,7366,Maximilian Wöber,Maximilian Wöber
+494541,11582,Kamari Doyle,Kamari Doyle
+504783,9630,Kamaldeen Sulemana,Kamaldeen Sulemana
+515024,10719,Luke Harris,Luke Harris
+494543,11583,Dominic Ballard,Dominic Ballard
+482769,11378,Máximo Perrone,Máximo Perrone
+533463,9662,Dango Ouattara,Dango Ouattara
+101338,5248,Marcel Sabitzer,Marcel Sabitzer
+437730,11363,Antoine Semenyo,Antoine Semenyo
+499175,11132,Ethan Nwaneri,Ethan Nwaneri
+509416,11385,Yasin Ayari,Yasin Ayari
+89068,3298,Layvin Kurzawa,Layvin Kurzawa
+476502,8119,Boubacar Traoré,Boubacar Traore
+244704,9892,Matías Viña,Matias Viña
+210494,6935,Nayef Aguerd,Naif Aguerd
+488404,9324,Facundo Pellistri Rebollo,Facundo Pellistri
+515571,11078,Juan Larios López,Juan Larios
+490721,10140,Hugo Bueno López,Hugo Bueno
+520295,11295,David Datro Fofana D.D.Fofana,David Datro Fofana
+482442,9021,Pape Matar Sarr,Pape Sarr
+242880,7240,Benoît Badiashile,Benoit Badiashile Mukinayi
+429414,8812,Sasa Kalajdzic Kalajdžić,Sasa Kalajdzic
+565297,11208,Mateo Joseph Fernández,Mateo Joseph
+428399,7892,João Félix Sequeira,João Félix
+185253,11284,Gustavo Henrique Furtado Scarpa,Gustavo Scarpa
+430871,7080,Matheus Santos Carneiro Da Cunha,Matheus Cunha
+424044,6986,Hamed Traorè H.Traorè,Hamed Junior Traore
+438098,11007,Fábio Ferreira Vieira Fábio Vieira,Fábio Vieira
+106468,4120,Alexandre Moreno Lopera Álex Moreno,Álex Moreno
+479683,11035,Marcus Oliveira Alencar Marquinhos,Marquinhos
+448089,11384,João Victor Gomes da Silva João Gomes,João Gomes
+467169,11094,Antony Matheus dos Santos,Antony
+513046,11317,Danilo dos Santos de Oliveira,Danilo
+116404,7921,Felipe Augusto de Almeida Monteiro,Felipe
+225295,10536,Mateus Cardoso Lemos Martins Tetê,Tetê
+196100,11839,Gustavo Hamer,Gustavo Hamer
+156700,11717,Carlton Morris,Carlton Morris
+519198,12086,Alex Matos,Alex Matos
+501284,11487,Michael Olakigbe,Michael Olakigbe
+244262,11723,Alfie Doughty,Alfie Doughty
+460842,12027,Mohammed Kudus,Mohammed Kudus
+118342,7047,Mark Flekken,Mark Flekken
+432720,9077,James Trafford,James Trafford
+441428,10187,Jarell Quansah,Jarell Quansah
+538207,9556,William Osula,William Osula
+538210,11731,Andre Brooks,Andre Brooks
+544877,11709,Milos Kerkez,Milos Kerkez
+463981,10747,James Hill,James Hill
+104047,11716,Pelly Ruddock Mpanzu,Pelly Ruddock Mpanzu
+244856,12073,Teden Mengi,Teden Mengi
+231057,7762,Jean-Ricner Bellegarde,Jean-Ricner Bellegarde
+168090,205,Mahmoud Dahoud,Mahmoud Dahoud
+489639,11711,Bart Verbruggen,Bart Verbruggen
+201410,11732,Auston Trusty,Auston Trusty
+220362,6885,Axel Disasi,Axel Disasi
+244954,6221,Pau Torres,Pau Torres
+82143,8776,Wes Foderingham,Wes Foderingham
+174310,11718,Elijah Adebayo,Elijah Adebayo
+497894,11055,Rasmus Højlund,Rasmus Højlund
+108796,11714,Tom Lockyer,Tom Lockyer
+179458,5355,Jacob Bruun Larsen,Jacob Bruun Larsen
+535301,10527,Carlos Baleba,Carlos Baleba
+435973,7498,Lyle Foster,Lyle Foster
+158983,8808,Wataru Endo,Wataru Endo
+535818,11710,Simon Adingra,Simon Adingra
+242453,11720,Jacob Brown,Jacob Brown
+487702,10620,Luca Koleosho,Luca Koleosho
+492831,11701,Zeki Amdouni,Zeki Amdouni
+432422,7958,Sandro Tonali,Sandro Tonali
+511783,11703,Anass Zaroury,Anass Zaroury
+229164,11719,Chiedozie Ogbene,Chiedozie Ogbene
+482609,9017,Malo Gusto,Malo Gusto
+82738,11722,Luke Berry,Luke Berry
+224068,10700,Matt Turner,Matt Turner
+432990,10041,Yasser Larouci,Yasser Larouci
+243557,6556,Moussa Diaby,Moussa Diaby
+172912,7927,Sofyan Amrabat,Sofyan Amrabat
+477555,11903,Oscar Bobb,Oscar Bobb
+534392,11810,Mason Burstow,Mason Burstow
+202641,10913,André Onana,André Onana
+91046,11721,Cauley Woodrow,Cauley Woodrow
+140200,1214,Thomas Strakosha,Thomas Strakosha
+424876,9788,Dominik Szoboszlai,Dominik Szoboszlai
+441266,10697,Ryan Gravenberch,Ryan Gravenberch
+550839,10822,Wilson Odobert,Wilson Odobert
+232892,11728,Calvin Bassey,Calvin Bassey
+184254,8858,Guglielmo Vicario,Guglielmo Vicario
+247245,11998,Hannes Delcroix,Hannes Delcroix
+54738,11712,Thomas Kaminski,Thomas Kaminski
+441302,11807,Ian Maatsen,Ian Maatsen
+222683,6963,Justin Kluivert,Justin Kluivert
+156658,1771,Reece Burke,Reece Burke
+210462,5722,Ibrahim Sangaré,Ibrahim Sangare
+487968,11699,Ameen Al-Dakhil,Ameen Al Dakhil
+245414,6686,Nicolò Zaniolo,Nicolo Zaniolo
+477424,9790,Joško Gvardiol,Josko Gvardiol
+248875,8981,Jérémy Doku,Jéremy Doku
+476369,9619,Issa Kaboré,Issa Kabore
+233821,10386,Anel Ahmedhodžić,Anel Ahmedhodzic
+504198,11730,Anis Slimane,Anis Ben Slimane
+208904,11715,Mads Juel Andersen,Mads Andersen
+232351,7277,Ryan Giles,Ryan John Giles
+536908,12105,Alejo Véliz Veliz,Alejo Véliz
+487053,8831,Destiny Udogie,Iyenoma Destiny Udogie
+250199,8252,Nicolás Domínguez Dominguez,Nicolás Domínguez
+165183,11713,Amari'i Bell,Amari&#039;i Bell
+445122,11707,Jurriën Timber J.Timber,Jurriën Timber
+523957,11729,Bénie Traoré T.Bénie,Bénie Traoré
+218430,9897,Gonzalo Montiel G.Montiel,Gonzalo Montiel
+517052,10048,Nicolas Jackson N.Jackson,Nicolas Jackson
+491279,10050,Micky van de Ven Van de Ven,Micky van de Ven
+244042,10717,Rodrigo Muniz Carvalho,Rodrigo Muniz
+447715,9913,Aaron Ramsey A.Ramsey,Aaron Ramsey
+213999,11926,Edson Álvarez Velázquez,Edson Álvarez
+437748,12094,Mike Trésor M.Trésor,Mike Trésor
+503714,9451,Lesley Ugochukwu,Chimuanya Ugochukwu
+465607,7967,Anssumane Fati Vieira Ansu Fati,Anssumane Fati
+491012,11984,Youssef Ramalho Chermiti Y. Chermiti,Youssef Chermiti
+241231,6557,Jordan Beyer,Louis Beyer
+223434,7943,Igor Julio dos Santos de Paulo,Igor Julio
+183751,11702,Manuel Benson Hedilazio,Benson Manuel
+441455,11700,Victor da Silva Vitinho,Vitinho
+424001,10872,Vini de Souza Costa Vini Souza,Vinicius Souza
+575476,12123,Murillo Santiago Costa dos Santos,Murillo
+486385,9983,Norberto Bercique Gomes Betuncal Beto,Beto

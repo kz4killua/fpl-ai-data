@@ -1,0 +1,381 @@
+fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
+1,16376,Brentford,Arsenal,Brentford,Arsenal
+6,16377,Man Utd,Leeds,Manchester United,Leeds
+2,16378,Burnley,Brighton,Burnley,Brighton
+3,16379,Chelsea,Crystal Palace,Chelsea,Crystal Palace
+4,16380,Everton,Southampton,Everton,Southampton
+5,16381,Leicester,Wolves,Leicester,Wolverhampton Wanderers
+8,16382,Watford,Aston Villa,Watford,Aston Villa
+7,16383,Norwich,Liverpool,Norwich,Liverpool
+9,16384,Newcastle,West Ham,Newcastle United,West Ham
+10,16385,Spurs,Man City,Tottenham,Manchester City
+15,16386,Liverpool,Burnley,Liverpool,Burnley
+16,16387,Man City,Norwich,Manchester City,Norwich
+11,16388,Aston Villa,Newcastle,Aston Villa,Newcastle United
+13,16389,Crystal Palace,Brentford,Crystal Palace,Brentford
+14,16390,Leeds,Everton,Leeds,Everton
+12,16391,Brighton,Watford,Brighton,Watford
+19,16392,Southampton,Man Utd,Southampton,Manchester United
+17,16393,Wolves,Spurs,Wolverhampton Wanderers,Tottenham
+18,16394,Arsenal,Chelsea,Arsenal,Chelsea
+20,16395,West Ham,Leicester,West Ham,Leicester
+24,16396,Man City,Arsenal,Manchester City,Arsenal
+25,16397,Newcastle,Southampton,Newcastle United,Southampton
+26,16398,Norwich,Leicester,Norwich,Leicester
+21,16399,Aston Villa,Brentford,Aston Villa,Brentford
+22,16400,Brighton,Everton,Brighton,Everton
+28,16401,West Ham,Crystal Palace,West Ham,Crystal Palace
+23,16402,Liverpool,Chelsea,Liverpool,Chelsea
+29,16403,Burnley,Leeds,Burnley,Leeds
+27,16404,Spurs,Watford,Tottenham,Watford
+30,16405,Wolves,Man Utd,Wolverhampton Wanderers,Manchester United
+34,16406,Crystal Palace,Spurs,Crystal Palace,Tottenham
+31,16407,Arsenal,Norwich,Arsenal,Norwich
+32,16408,Brentford,Brighton,Brentford,Brighton
+37,16409,Leicester,Man City,Leicester,Manchester City
+38,16410,Man Utd,Newcastle,Manchester United,Newcastle United
+39,16411,Southampton,West Ham,Southampton,West Ham
+40,16412,Watford,Wolves,Watford,Wolverhampton Wanderers
+33,16413,Chelsea,Aston Villa,Chelsea,Aston Villa
+36,16414,Leeds,Liverpool,Leeds,Liverpool
+35,16415,Everton,Burnley,Everton,Burnley
+46,16416,Newcastle,Leeds,Newcastle United,Leeds
+50,16417,Wolves,Brentford,Wolverhampton Wanderers,Brentford
+47,16418,Norwich,Watford,Norwich,Watford
+43,16419,Burnley,Arsenal,Burnley,Arsenal
+44,16420,Liverpool,Crystal Palace,Liverpool,Crystal Palace
+45,16421,Man City,Southampton,Manchester City,Southampton
+41,16422,Aston Villa,Everton,Aston Villa,Everton
+42,16423,Brighton,Leicester,Brighton,Leicester
+49,16424,West Ham,Man Utd,West Ham,Manchester United
+48,16425,Spurs,Chelsea,Tottenham,Chelsea
+53,16426,Chelsea,Man City,Chelsea,Manchester City
+58,16431,Man Utd,Aston Villa,Manchester United,Aston Villa
+60,16427,Watford,Newcastle,Watford,Newcastle United
+55,16428,Everton,Norwich,Everton,Norwich
+56,16429,Leeds,West Ham,Leeds,West Ham
+57,16430,Leicester,Burnley,Leicester,Burnley
+52,16432,Brentford,Liverpool,Brentford,Liverpool
+59,16433,Southampton,Wolves,Southampton,Wolverhampton Wanderers
+51,16434,Arsenal,Spurs,Arsenal,Tottenham
+54,16435,Crystal Palace,Brighton,Crystal Palace,Brighton
+67,16442,Man Utd,Everton,Manchester United,Everton
+62,16437,Burnley,Norwich,Burnley,Norwich
+63,16438,Chelsea,Southampton,Chelsea,Southampton
+65,16440,Leeds,Watford,Leeds,Watford
+70,16445,Wolves,Newcastle,Wolverhampton Wanderers,Newcastle United
+61,16436,Brighton,Arsenal,Brighton,Arsenal
+64,16439,Crystal Palace,Leicester,Crystal Palace,Leicester
+68,16443,Spurs,Aston Villa,Tottenham,Aston Villa
+69,16444,West Ham,Brentford,West Ham,Brentford
+66,16441,Liverpool,Man City,Liverpool,Manchester City
+80,16455,Watford,Liverpool,Watford,Liverpool
+72,16447,Aston Villa,Wolves,Aston Villa,Wolverhampton Wanderers
+75,16450,Leicester,Man Utd,Leicester,Manchester United
+76,16451,Man City,Burnley,Manchester City,Burnley
+78,16453,Norwich,Brighton,Norwich,Brighton
+79,16454,Southampton,Leeds,Southampton,Leeds
+73,16448,Brentford,Chelsea,Brentford,Chelsea
+74,16449,Everton,West Ham,Everton,West Ham
+77,16452,Newcastle,Spurs,Newcastle United,Tottenham
+71,16446,Arsenal,Crystal Palace,Arsenal,Crystal Palace
+81,16456,Arsenal,Aston Villa,Arsenal,Aston Villa
+84,16459,Chelsea,Norwich,Chelsea,Norwich
+85,16460,Crystal Palace,Newcastle,Crystal Palace,Newcastle United
+86,16461,Everton,Watford,Everton,Watford
+87,16462,Leeds,Wolves,Leeds,Wolverhampton Wanderers
+89,16464,Southampton,Burnley,Southampton,Burnley
+83,16458,Brighton,Man City,Brighton,Manchester City
+82,16457,Brentford,Leicester,Brentford,Leicester
+90,16465,West Ham,Spurs,West Ham,Tottenham
+88,16463,Man Utd,Liverpool,Manchester United,Liverpool
+93,16468,Leicester,Arsenal,Leicester,Arsenal
+92,16467,Burnley,Brentford,Burnley,Brentford
+94,16469,Liverpool,Brighton,Liverpool,Brighton
+95,16470,Man City,Crystal Palace,Manchester City,Crystal Palace
+96,16471,Newcastle,Chelsea,Newcastle United,Chelsea
+99,16474,Watford,Southampton,Watford,Southampton
+98,16473,Spurs,Man Utd,Tottenham,Manchester United
+97,16472,Norwich,Leeds,Norwich,Leeds
+91,16466,Aston Villa,West Ham,Aston Villa,West Ham
+100,16475,Wolves,Everton,Wolverhampton Wanderers,Everton
+109,16484,Southampton,Aston Villa,Southampton,Aston Villa
+108,16483,Man Utd,Man City,Manchester United,Manchester City
+102,16477,Brentford,Norwich,Brentford,Norwich
+104,16479,Chelsea,Burnley,Chelsea,Burnley
+105,16480,Crystal Palace,Wolves,Crystal Palace,Wolverhampton Wanderers
+103,16478,Brighton,Newcastle,Brighton,Newcastle United
+101,16476,Arsenal,Watford,Arsenal,Watford
+106,16481,Everton,Spurs,Everton,Tottenham
+107,16482,Leeds,Leicester,Leeds,Leicester
+110,16485,West Ham,Liverpool,West Ham,Liverpool
+113,16488,Leicester,Chelsea,Leicester,Chelsea
+111,16486,Aston Villa,Brighton,Aston Villa,Brighton
+112,16487,Burnley,Crystal Palace,Burnley,Crystal Palace
+116,16491,Newcastle,Brentford,Newcastle United,Brentford
+117,16492,Norwich,Southampton,Norwich,Southampton
+119,16494,Watford,Man Utd,Watford,Manchester United
+120,16495,Wolves,West Ham,Wolverhampton Wanderers,West Ham
+114,16489,Liverpool,Arsenal,Liverpool,Arsenal
+115,16490,Man City,Everton,Manchester City,Everton
+118,16493,Spurs,Leeds,Tottenham,Leeds
+121,16496,Arsenal,Newcastle,Arsenal,Newcastle United
+126,16501,Crystal Palace,Aston Villa,Crystal Palace,Aston Villa
+128,16503,Liverpool,Southampton,Liverpool,Southampton
+130,16505,Norwich,Wolves,Norwich,Wolverhampton Wanderers
+123,16498,Brighton,Leeds,Brighton,Leeds
+122,16497,Brentford,Everton,Brentford,Everton
+127,16502,Leicester,Watford,Leicester,Watford
+129,16504,Man City,West Ham,Manchester City,West Ham
+125,16500,Chelsea,Man Utd,Chelsea,Manchester United
+138,16513,Newcastle,Norwich,Newcastle United,Norwich
+133,16508,Leeds,Crystal Palace,Leeds,Crystal Palace
+135,16509,Watford,Chelsea,Watford,Chelsea
+136,16510,West Ham,Brighton,West Ham,Brighton
+137,16511,Wolves,Burnley,Wolverhampton Wanderers,Burnley
+139,16514,Southampton,Leicester,Southampton,Leicester
+131,16506,Aston Villa,Man City,Aston Villa,Manchester City
+132,16507,Everton,Liverpool,Everton,Liverpool
+140,16515,Spurs,Brentford,Tottenham,Brentford
+134,16512,Man Utd,Arsenal,Manchester United,Arsenal
+149,16524,West Ham,Chelsea,West Ham,Chelsea
+145,16520,Newcastle,Burnley,Newcastle United,Burnley
+146,16521,Southampton,Brighton,Southampton,Brighton
+150,16525,Wolves,Liverpool,Wolverhampton Wanderers,Liverpool
+148,16523,Watford,Man City,Watford,Manchester City
+143,16518,Leeds,Brentford,Leeds,Brentford
+144,16519,Man Utd,Crystal Palace,Manchester United,Crystal Palace
+147,16522,Spurs,Norwich,Tottenham,Norwich
+141,16516,Aston Villa,Leicester,Aston Villa,Leicester
+142,16517,Everton,Arsenal,Everton,Arsenal
+152,16527,Brentford,Watford,Brentford,Watford
+159,16534,Man City,Wolves,Manchester City,Wolverhampton Wanderers
+151,16526,Arsenal,Southampton,Arsenal,Southampton
+155,16530,Chelsea,Leeds,Chelsea,Leeds
+158,16533,Liverpool,Aston Villa,Liverpool,Aston Villa
+160,16535,Norwich,Man Utd,Norwich,Manchester United
+154,16529,Burnley,West Ham,Burnley,West Ham
+157,16532,Leicester,Newcastle,Leicester,Newcastle United
+156,16531,Crystal Palace,Everton,Crystal Palace,Everton
+167,16541,Norwich,Aston Villa,Norwich,Aston Villa
+170,16545,Man City,Leeds,Manchester City,Leeds
+163,16538,Brighton,Wolves,Brighton,Wolverhampton Wanderers
+165,16542,Crystal Palace,Southampton,Crystal Palace,Southampton
+161,16536,Arsenal,West Ham,Arsenal,West Ham
+168,16543,Chelsea,Everton,Chelsea,Everton
+169,16544,Liverpool,Newcastle,Liverpool,Newcastle United
+173,16548,Leeds,Arsenal,Leeds,Arsenal
+180,16555,Wolves,Chelsea,Wolverhampton Wanderers,Chelsea
+175,16550,Newcastle,Man City,Newcastle United,Manchester City
+177,16552,Spurs,Liverpool,Tottenham,Liverpool
+185,16560,Man City,Leicester,Manchester City,Leicester
+187,16562,Norwich,Arsenal,Norwich,Arsenal
+188,16563,Spurs,Crystal Palace,Tottenham,Crystal Palace
+189,16564,West Ham,Southampton,West Ham,Southampton
+181,16556,Aston Villa,Chelsea,Aston Villa,Chelsea
+182,16557,Brighton,Brentford,Brighton,Brentford
+186,16561,Newcastle,Man Utd,Newcastle United,Manchester United
+200,16569,Watford,West Ham,Watford,West Ham
+194,16570,Crystal Palace,Norwich,Crystal Palace,Norwich
+199,16575,Southampton,Spurs,Southampton,Tottenham
+197,16573,Leicester,Liverpool,Leicester,Liverpool
+193,16568,Chelsea,Brighton,Chelsea,Brighton
+192,16567,Brentford,Man City,Brentford,Manchester City
+198,16574,Man Utd,Burnley,Manchester United,Burnley
+201,16576,Arsenal,Man City,Arsenal,Manchester City
+210,16585,Watford,Spurs,Watford,Tottenham
+204,16579,Crystal Palace,West Ham,Crystal Palace,West Ham
+202,16577,Brentford,Aston Villa,Brentford,Aston Villa
+205,16580,Everton,Brighton,Everton,Brighton
+206,16581,Leeds,Burnley,Leeds,Burnley
+203,16578,Chelsea,Liverpool,Chelsea,Liverpool
+208,16583,Man Utd,Wolves,Manchester United,Wolverhampton Wanderers
+176,16551,Southampton,Brentford,Southampton,Brentford
+179,16554,West Ham,Norwich,West Ham,Norwich
+212,16587,Brighton,Crystal Palace,Brighton,Crystal Palace
+215,16590,Man City,Chelsea,Manchester City,Chelsea
+216,16591,Newcastle,Watford,Newcastle United,Watford
+217,16592,Norwich,Everton,Norwich,Everton
+220,16595,Wolves,Southampton,Wolverhampton Wanderers,Southampton
+211,16586,Aston Villa,Man Utd,Aston Villa,Manchester United
+214,16589,Liverpool,Brentford,Liverpool,Brentford
+219,16594,West Ham,Leeds,West Ham,Leeds
+232,16607,Brighton,Chelsea,Brighton,Chelsea
+166,16540,Leicester,Spurs,Leicester,Tottenham
+162,16537,Brentford,Man Utd,Brentford,Manchester United
+230,16605,Watford,Norwich,Watford,Norwich
+225,16600,Everton,Aston Villa,Everton,Aston Villa
+222,16597,Brentford,Wolves,Brentford,Wolverhampton Wanderers
+226,16601,Leeds,Newcastle,Leeds,Newcastle United
+228,16603,Man Utd,West Ham,Manchester United,West Ham
+229,16604,Southampton,Man City,Southampton,Manchester City
+221,16596,Arsenal,Burnley,Arsenal,Burnley
+224,16599,Crystal Palace,Liverpool,Crystal Palace,Liverpool
+227,16602,Leicester,Brighton,Leicester,Brighton
+223,16598,Chelsea,Spurs,Chelsea,Tottenham
+164,16539,Burnley,Watford,Burnley,Watford
+235,16610,West Ham,Watford,West Ham,Watford
+239,16612,Newcastle,Everton,Newcastle United,Everton
+233,16608,Burnley,Man Utd,Burnley,Manchester United
+234,16609,Norwich,Crystal Palace,Norwich,Crystal Palace
+240,16613,Spurs,Southampton,Tottenham,Southampton
+238,16615,Man City,Brentford,Manchester City,Brentford
+231,16606,Aston Villa,Leeds,Aston Villa,Leeds
+236,16611,Wolves,Arsenal,Wolverhampton Wanderers,Arsenal
+237,16614,Liverpool,Leicester,Liverpool,Leicester
+246,16621,Man Utd,Southampton,Manchester United,Southampton
+241,16616,Brentford,Crystal Palace,Brentford,Crystal Palace
+244,16619,Everton,Leeds,Everton,Leeds
+250,16625,Watford,Brighton,Watford,Brighton
+248,16623,Norwich,Man City,Norwich,Manchester City
+242,16617,Burnley,Liverpool,Burnley,Liverpool
+247,16622,Newcastle,Aston Villa,Newcastle United,Aston Villa
+249,16624,Spurs,Wolves,Tottenham,Wolverhampton Wanderers
+245,16620,Leicester,West Ham,Leicester,West Ham
+174,16549,Man Utd,Brighton,Manchester United,Brighton
+259,16634,West Ham,Newcastle,West Ham,Newcastle United
+251,16626,Arsenal,Brentford,Arsenal,Brentford
+252,16627,Aston Villa,Watford,Aston Villa,Watford
+253,16628,Brighton,Burnley,Brighton,Burnley
+254,16629,Crystal Palace,Chelsea,Crystal Palace,Chelsea
+256,16631,Liverpool,Norwich,Liverpool,Norwich
+258,16633,Southampton,Everton,Southampton,Everton
+257,16632,Man City,Spurs,Manchester City,Tottenham
+255,16630,Leeds,Man Utd,Leeds,Manchester United
+260,16635,Wolves,Leicester,Wolverhampton Wanderers,Leicester
+124,16499,Burnley,Spurs,Burnley,Tottenham
+178,16553,Watford,Crystal Palace,Watford,Crystal Palace
+184,16559,Liverpool,Leeds,Liverpool,Leeds
+191,16566,Arsenal,Wolves,Arsenal,Wolverhampton Wanderers
+269,16644,Southampton,Norwich,Southampton,Norwich
+267,16642,Leeds,Spurs,Leeds,Tottenham
+262,16637,Brentford,Newcastle,Brentford,Newcastle United
+265,16640,Crystal Palace,Burnley,Crystal Palace,Burnley
+268,16643,Man Utd,Watford,Manchester United,Watford
+263,16638,Brighton,Aston Villa,Brighton,Aston Villa
+266,16641,Everton,Man City,Everton,Manchester City
+270,16645,West Ham,Wolves,West Ham,Wolverhampton Wanderers
+213,16588,Burnley,Leicester,Burnley,Leicester
+273,16648,Leicester,Leeds,Leicester,Leeds
+271,16646,Aston Villa,Southampton,Aston Villa,Southampton
+272,16647,Burnley,Chelsea,Burnley,Chelsea
+276,16651,Newcastle,Brighton,Newcastle United,Brighton
+277,16652,Norwich,Brentford,Norwich,Brentford
+280,16655,Wolves,Crystal Palace,Wolverhampton Wanderers,Crystal Palace
+274,16649,Liverpool,West Ham,Liverpool,West Ham
+279,16654,Watford,Arsenal,Watford,Arsenal
+275,16650,Man City,Man Utd,Manchester City,Manchester United
+278,16653,Spurs,Everton,Tottenham,Everton
+190,16565,Wolves,Watford,Wolverhampton Wanderers,Watford
+209,16584,Southampton,Newcastle,Southampton,Newcastle United
+297,16672,Norwich,Chelsea,Norwich,Chelsea
+196,16572,Leeds,Aston Villa,Leeds,Aston Villa
+283,16658,Brighton,Liverpool,Brighton,Liverpool
+282,16657,Brentford,Burnley,Brentford,Burnley
+288,16663,Man Utd,Spurs,Manchester United,Tottenham
+284,16659,Chelsea,Newcastle,Chelsea,Newcastle United
+286,16661,Everton,Wolves,Everton,Wolverhampton Wanderers
+287,16662,Leeds,Norwich,Leeds,Norwich
+289,16664,Southampton,Watford,Southampton,Watford
+290,16665,West Ham,Aston Villa,West Ham,Aston Villa
+281,16656,Arsenal,Leicester,Arsenal,Leicester
+285,16660,Crystal Palace,Man City,Crystal Palace,Manchester City
+153,16528,Brighton,Spurs,Brighton,Tottenham
+261,16636,Arsenal,Liverpool,Arsenal,Liverpool
+195,16571,Everton,Newcastle,Everton,Newcastle United
+300,16675,Wolves,Leeds,Wolverhampton Wanderers,Leeds
+291,16666,Aston Villa,Arsenal,Aston Villa,Arsenal
+293,16668,Leicester,Brentford,Leicester,Brentford
+298,16673,Spurs,West Ham,Tottenham,West Ham
+306,16680,Liverpool,Watford,Liverpool,Watford
+310,16676,Wolves,Aston Villa,Wolverhampton Wanderers,Aston Villa
+305,16681,Leeds,Southampton,Leeds,Southampton
+303,16683,Chelsea,Brentford,Chelsea,Brentford
+302,16684,Burnley,Man City,Burnley,Manchester City
+301,16685,Brighton,Norwich,Brighton,Norwich
+307,16679,Man Utd,Leicester,Manchester United,Leicester
+309,16677,West Ham,Everton,West Ham,Everton
+308,16678,Spurs,Newcastle,Tottenham,Newcastle United
+304,16682,Crystal Palace,Arsenal,Crystal Palace,Arsenal
+183,16558,Burnley,Everton,Burnley,Everton
+317,16689,Newcastle,Wolves,Newcastle United,Wolverhampton Wanderers
+314,16692,Everton,Man Utd,Everton,Manchester United
+320,16686,Watford,Leeds,Watford,Leeds
+319,16687,Southampton,Chelsea,Southampton,Chelsea
+311,16695,Arsenal,Brighton,Arsenal,Brighton
+312,16694,Aston Villa,Spurs,Aston Villa,Tottenham
+318,16688,Norwich,Burnley,Norwich,Burnley
+315,16691,Leicester,Crystal Palace,Leicester,Crystal Palace
+313,16693,Brentford,West Ham,Brentford,West Ham
+316,16690,Man City,Liverpool,Manchester City,Liverpool
+327,16699,Spurs,Brighton,Tottenham,Brighton
+328,16698,Watford,Brentford,Watford,Brentford
+326,16700,Southampton,Arsenal,Southampton,Arsenal
+324,16702,Man Utd,Norwich,Manchester United,Norwich
+329,16697,West Ham,Burnley,West Ham,Burnley
+325,16701,Newcastle,Leicester,Newcastle United,Leicester
+294,16669,Liverpool,Man Utd,Liverpool,Manchester United
+172,16547,Everton,Leicester,Everton,Leicester
+243,16618,Chelsea,Arsenal,Chelsea,Arsenal
+296,16671,Newcastle,Crystal Palace,Newcastle United,Crystal Palace
+295,16670,Man City,Brighton,Manchester City,Brighton
+292,16667,Burnley,Southampton,Burnley,Southampton
+331,16715,Arsenal,Man Utd,Arsenal,Manchester United
+340,16706,Norwich,Newcastle,Norwich,Newcastle United
+339,16707,Man City,Watford,Manchester City,Watford
+337,16709,Leicester,Aston Villa,Leicester,Aston Villa
+332,16714,Brentford,Spurs,Brentford,Tottenham
+335,16711,Chelsea,West Ham,Chelsea,West Ham
+334,16712,Burnley,Wolves,Burnley,Wolverhampton Wanderers
+333,16713,Brighton,Southampton,Brighton,Southampton
+338,16708,Liverpool,Everton,Liverpool,Everton
+336,16710,Crystal Palace,Leeds,Crystal Palace,Leeds
+364,16742,Man Utd,Chelsea,Manchester United,Chelsea
+345,16721,Newcastle,Liverpool,Newcastle United,Liverpool
+350,16716,Wolves,Brighton,Wolverhampton Wanderers,Brighton
+348,16718,Watford,Burnley,Watford,Burnley
+346,16720,Southampton,Crystal Palace,Southampton,Crystal Palace
+341,16725,Aston Villa,Norwich,Aston Villa,Norwich
+343,16723,Leeds,Man City,Leeds,Manchester City
+347,16719,Spurs,Leicester,Tottenham,Leicester
+342,16724,Everton,Chelsea,Everton,Chelsea
+349,16717,West Ham,Arsenal,West Ham,Arsenal
+344,16722,Man Utd,Brentford,Manchester United,Brentford
+356,16730,Crystal Palace,Watford,Crystal Palace,Watford
+355,16731,Chelsea,Wolves,Chelsea,Wolverhampton Wanderers
+354,16732,Burnley,Aston Villa,Burnley,Aston Villa
+352,16734,Brentford,Southampton,Brentford,Southampton
+353,16733,Brighton,Man Utd,Brighton,Manchester United
+358,16728,Liverpool,Spurs,Liverpool,Tottenham
+360,16726,Norwich,West Ham,Norwich,West Ham
+357,16729,Leicester,Everton,Leicester,Everton
+351,16735,Arsenal,Leeds,Arsenal,Leeds
+359,16727,Man City,Newcastle,Manchester City,Newcastle United
+321,16705,Aston Villa,Liverpool,Aston Villa,Liverpool
+323,16703,Leeds,Chelsea,Leeds,Chelsea
+207,16582,Leicester,Norwich,Leicester,Norwich
+299,16674,Watford,Everton,Watford,Everton
+330,16696,Wolves,Man City,Wolverhampton Wanderers,Manchester City
+218,16593,Spurs,Arsenal,Tottenham,Arsenal
+367,16739,Spurs,Burnley,Tottenham,Burnley
+370,16736,Wolves,Norwich,Wolverhampton Wanderers,Norwich
+369,16737,West Ham,Man City,West Ham,Manchester City
+368,16738,Watford,Leicester,Watford,Leicester
+363,16743,Leeds,Brighton,Leeds,Brighton
+361,16745,Aston Villa,Crystal Palace,Aston Villa,Crystal Palace
+362,16744,Everton,Brentford,Everton,Brentford
+365,16741,Newcastle,Arsenal,Newcastle United,Arsenal
+366,16740,Southampton,Liverpool,Southampton,Liverpool
+322,16704,Everton,Crystal Palace,Everton,Crystal Palace
+171,16546,Aston Villa,Burnley,Aston Villa,Burnley
+264,16639,Chelsea,Leicester,Chelsea,Leicester
+371,16746,Arsenal,Everton,Arsenal,Everton
+372,16747,Brentford,Leeds,Brentford,Leeds
+373,16748,Brighton,West Ham,Brighton,West Ham
+374,16749,Burnley,Newcastle,Burnley,Newcastle United
+375,16750,Chelsea,Watford,Chelsea,Watford
+376,16751,Crystal Palace,Man Utd,Crystal Palace,Manchester United
+377,16752,Leicester,Southampton,Leicester,Southampton
+378,16753,Liverpool,Wolves,Liverpool,Wolverhampton Wanderers
+379,16754,Man City,Aston Villa,Manchester City,Aston Villa
+380,16755,Norwich,Spurs,Norwich,Tottenham

@@ -1,0 +1,7 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
+683,21,1,0,False,2023-08-26T14:00:00Z,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0
+683,39,13,2,False,2023-09-02T14:00:00Z,5,1,4,74,0,0,0,5,0,0,0,0,0,0,0,2,3.2,0.7,17.0,2.1,0,0.28,0.01,0.29,2.26,45,99,214,112,13
+683,44,12,0,True,2023-09-16T14:00:00Z,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,1602,2557,1952,350
+683,56,8,0,False,2023-09-23T14:00:00Z,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,-19,2485,345,364
+683,64,7,0,True,2023-10-02T19:00:00Z,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,-54,2490,321,375
+683,76,17,0,True,2023-10-07T14:00:00Z,3,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,-29,2539,339,368
