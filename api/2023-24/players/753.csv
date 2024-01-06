@@ -1,0 +1,8 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
+753,135,7,0,False,2023-12-03T14:00:00Z,3,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0
+753,142,4,0,True,2023-12-06T19:30:00Z,2,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,70,136,79,9
+753,152,6,0,True,2023-12-09T15:00:00Z,1,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,58,309,89,31
+753,161,1,0,False,2023-12-17T14:00:00Z,2,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,32,490,86,54
+753,172,8,0,False,2023-12-21T20:00:00Z,1,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,-2,585,53,55
+753,184,18,0,True,2023-12-28T19:30:00Z,4,2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,18,685,49,31
+753,199,19,0,False,2024-01-02T19:30:00Z,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,8,778,69,61
