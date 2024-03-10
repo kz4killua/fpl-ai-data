@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Newcastle United,4,1,2024-02-24,22146,2023,643532,0,0,0,0,0,0,0
 0,0,0,90,GK,Union Berlin,Hoffenheim,1,1,2021-02-28,15343,2020,452754,0,0,0,0,0,0,0
 0,0,0,90,GK,Freiburg,Union Berlin,0,1,2021-02-20,15331,2020,450656,0,0,0,0,0,0.5753610134124756,0.5753610134124756
 0,0,0,90,GK,Union Berlin,Schalke 04,0,0,2021-02-13,15326,2020,449140,0,0,0,0,0,0.03537129983305931,0.03537129983305931

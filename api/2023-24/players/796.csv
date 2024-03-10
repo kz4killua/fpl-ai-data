@@ -1,0 +1,7 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
+796,213,9,0,True,2024-01-30T19:45:00Z,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0
+796,225,6,0,False,2024-02-03T15:00:00Z,2,2,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,9,15,9,0
+796,233,3,0,True,2024-02-10T15:00:00Z,3,1,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,21,44,28,7
+796,244,2,0,True,2024-02-17T15:00:00Z,1,2,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,10,81,30,20
+796,258,14,0,False,2024-02-24T15:00:00Z,1,2,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,-1,74,17,18
+796,264,5,0,True,2024-03-02T15:00:00Z,3,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,44,12,97,27,15

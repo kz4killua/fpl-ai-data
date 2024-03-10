@@ -1,0 +1,6 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
+809,222,3,1,False,2024-02-04T14:00:00Z,1,1,23,1,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.5,0.0,0.2,0,0.00,0.00,0.00,0.00,45,73,88,79,6
+809,237,15,0,True,2024-02-10T17:30:00Z,2,3,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,176,322,227,51
+809,248,19,0,True,2024-02-17T15:00:00Z,2,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,145,548,236,91
+809,252,2,0,False,2024-02-24T15:00:00Z,4,2,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,74,687,177,103
+809,268,11,0,True,2024-03-02T15:00:00Z,0,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,10,739,116,106
