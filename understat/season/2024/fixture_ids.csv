@@ -109,26 +109,26 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 106,26708,Man Utd,Leicester,Manchester United,Leicester
 108,26709,Spurs,Ipswich,Tottenham,Ipswich
 103,26705,Chelsea,Arsenal,Chelsea,Arsenal
+117,26719,Leicester,Chelsea,Leicester,Chelsea
 113,26712,Bournemouth,Brighton,Bournemouth,Brighton
-119,26713,Newcastle,West Ham,Newcastle United,West Ham
 111,26714,Arsenal,Nott'm Forest,Arsenal,Nottingham Forest
 114,26715,Everton,Brentford,Everton,Brentford
 112,26716,Aston Villa,Crystal Palace,Aston Villa,Crystal Palace
 115,26717,Fulham,Wolves,Fulham,Wolverhampton Wanderers
-116,26718,Ipswich,Man Utd,Ipswich,Manchester United
-117,26719,Leicester,Chelsea,Leicester,Chelsea
 118,26720,Man City,Spurs,Manchester City,Tottenham
 120,26721,Southampton,Liverpool,Southampton,Liverpool
-121,26722,Brentford,Leicester,Brentford,Leicester
+116,26718,Ipswich,Man Utd,Ipswich,Manchester United
+119,26713,Newcastle,West Ham,Newcastle United,West Ham
 122,26723,Brighton,Southampton,Brighton,Southampton
-123,26724,Chelsea,Aston Villa,Chelsea,Aston Villa
+121,26722,Brentford,Leicester,Brentford,Leicester
 124,26725,Crystal Palace,Newcastle,Crystal Palace,Newcastle United
-125,26726,Liverpool,Man City,Liverpool,Manchester City
-126,26727,Man Utd,Everton,Manchester United,Everton
 127,26728,Nott'm Forest,Ipswich,Nottingham Forest,Ipswich
-128,26729,Spurs,Fulham,Tottenham,Fulham
-129,26730,West Ham,Arsenal,West Ham,Arsenal
 130,26731,Wolves,Bournemouth,Wolverhampton Wanderers,Bournemouth
+129,26730,West Ham,Arsenal,West Ham,Arsenal
+123,26724,Chelsea,Aston Villa,Chelsea,Aston Villa
+126,26727,Man Utd,Everton,Manchester United,Everton
+128,26729,Spurs,Fulham,Tottenham,Fulham
+125,26726,Liverpool,Man City,Liverpool,Manchester City
 133,26732,Bournemouth,Spurs,Bournemouth,Tottenham
 131,26733,Arsenal,Man Utd,Arsenal,Manchester United
 132,26734,Aston Villa,Brentford,Aston Villa,Brentford
