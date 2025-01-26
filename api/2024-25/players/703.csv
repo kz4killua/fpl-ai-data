@@ -1,5 +1,6 @@
-element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
-703,176,8,0,True,2024-12-26T12:30:00Z,1,1,18,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0
-703,187,11,0,False,2024-12-29T14:30:00Z,0,2,19,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,61,130,68,7
-703,197,19,0,True,2025-01-04T15:00:00Z,4,1,20,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,44,298,84,40
-703,202,4,0,False,2025-01-14T19:30:00Z,2,2,21,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,47,473,107,60
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,mng_win,mng_draw,mng_loss,mng_underdog_win,mng_underdog_draw,mng_clean_sheets,mng_goals_scored,value,transfers_balance,selected,transfers_in,transfers_out
+703,176,8,0,True,2024-12-26T12:30:00Z,1,1,18,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,40,0,0,0,0
+703,187,11,0,False,2024-12-29T14:30:00Z,0,2,19,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,40,61,130,68,7
+703,197,19,0,True,2025-01-04T15:00:00Z,4,1,20,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,40,44,298,84,40
+703,202,4,0,False,2025-01-14T19:30:00Z,2,2,21,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,40,47,473,107,60
+703,215,10,0,False,2025-01-19T16:30:00Z,0,6,22,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,40,-35,490,47,82
