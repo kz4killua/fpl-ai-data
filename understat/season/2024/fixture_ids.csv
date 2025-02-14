@@ -228,37 +228,37 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 229,26830,Spurs,Leicester,Tottenham,Leicester
 221,26823,Aston Villa,West Ham,Aston Villa,West Ham
 225,26826,Fulham,Man Utd,Fulham,Manchester United
+239,26840,Nott'm Forest,Brighton,Nottingham Forest,Brighton
 232,26832,Bournemouth,Liverpool,Bournemouth,Liverpool
-231,26833,Arsenal,Man City,Arsenal,Manchester City
-233,26834,Brentford,Spurs,Brentford,Tottenham
-234,26835,Chelsea,West Ham,Chelsea,West Ham
 235,26836,Everton,Leicester,Everton,Leicester
 236,26837,Ipswich,Southampton,Ipswich,Southampton
-237,26838,Man Utd,Crystal Palace,Manchester United,Crystal Palace
 238,26839,Newcastle,Fulham,Newcastle United,Fulham
-239,26840,Nott'm Forest,Brighton,Nottingham Forest,Brighton
 240,26841,Wolves,Aston Villa,Wolverhampton Wanderers,Aston Villa
+233,26834,Brentford,Spurs,Brentford,Tottenham
+237,26838,Man Utd,Crystal Palace,Manchester United,Crystal Palace
+231,26833,Arsenal,Man City,Arsenal,Manchester City
+234,26835,Chelsea,West Ham,Chelsea,West Ham
 144,26748,Everton,Liverpool,Everton,Liverpool
-241,26842,Aston Villa,Ipswich,Aston Villa,Ipswich
 242,26843,Brighton,Chelsea,Brighton,Chelsea
-243,26844,Crystal Palace,Everton,Crystal Palace,Everton
-244,26845,Fulham,Nott'm Forest,Fulham,Nottingham Forest
 245,26846,Leicester,Arsenal,Leicester,Arsenal
-246,26847,Liverpool,Wolves,Liverpool,Wolverhampton Wanderers
+241,26842,Aston Villa,Ipswich,Aston Villa,Ipswich
+244,26845,Fulham,Nott'm Forest,Fulham,Nottingham Forest
 247,26848,Man City,Newcastle,Manchester City,Newcastle United
 248,26849,Southampton,Bournemouth,Southampton,Bournemouth
-249,26850,Spurs,Man Utd,Tottenham,Manchester United
 250,26851,West Ham,Brentford,West Ham,Brentford
+243,26844,Crystal Palace,Everton,Crystal Palace,Everton
+246,26847,Liverpool,Wolves,Liverpool,Wolverhampton Wanderers
+249,26850,Spurs,Man Utd,Tottenham,Manchester United
+257,26858,Leicester,Brentford,Leicester,Brentford
+254,26855,Everton,Man Utd,Everton,Manchester United
 253,26852,Bournemouth,Wolves,Bournemouth,Wolverhampton Wanderers
 251,26853,Arsenal,West Ham,Arsenal,West Ham
-252,26854,Aston Villa,Chelsea,Aston Villa,Chelsea
-254,26855,Everton,Man Utd,Everton,Manchester United
 255,26856,Fulham,Crystal Palace,Fulham,Crystal Palace
 256,26857,Ipswich,Spurs,Ipswich,Tottenham
-257,26858,Leicester,Brentford,Leicester,Brentford
-258,26859,Man City,Liverpool,Manchester City,Liverpool
-259,26860,Newcastle,Nott'm Forest,Newcastle United,Nottingham Forest
 260,26861,Southampton,Brighton,Southampton,Brighton
+252,26854,Aston Villa,Chelsea,Aston Villa,Chelsea
+259,26860,Newcastle,Nott'm Forest,Newcastle United,Nottingham Forest
+258,26859,Man City,Liverpool,Manchester City,Liverpool
 261,26862,Brentford,Everton,Brentford,Everton
 262,26863,Brighton,Bournemouth,Brighton,Bournemouth
 264,26864,Nott'm Forest,Arsenal,Nottingham Forest,Arsenal
