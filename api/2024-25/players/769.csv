@@ -1,1 +1,2 @@
-
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,mng_win,mng_draw,mng_loss,mng_underdog_win,mng_underdog_draw,mng_clean_sheets,mng_goals_scored,value,transfers_balance,selected,transfers_in,transfers_out
+769,246,12,0,False,2025-02-16T14:00:00Z,2,1,25,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,0,0,0,0,0,0,45,171,337,182,11
