@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Crystal Palace,Nottingham Forest,1,1,2025-05-05,26949,2024,725330,0,0,0,0,0,0,0
 0,1,0.01677882671356201,87,DMC,Nottingham Forest,Brentford,0,2,2025-05-01,26939,2024,723582,0,0,0,0,0.01677882671356201,0.15619239211082458,0.13941356539726257
 0,0,0,29,Sub,Tottenham,Nottingham Forest,1,2,2025-04-21,26930,2024,721680,0,0,0,0,0,0,0
 0,0,0,14,Sub,Nottingham Forest,Everton,0,1,2025-04-12,26920,2024,718670,0,0,0,0,0,0,0

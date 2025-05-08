@@ -349,16 +349,16 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 343,26947,Brentford,Man Utd,Brentford,Manchester United
 345,26948,Chelsea,Liverpool,Chelsea,Liverpool
 346,26949,Crystal Palace,Nott'm Forest,Crystal Palace,Nottingham Forest
-354,26952,Liverpool,Arsenal,Liverpool,Arsenal
 352,26953,Fulham,Everton,Fulham,Everton
 353,26954,Ipswich,Brentford,Ipswich,Brentford
-351,26955,Bournemouth,Aston Villa,Bournemouth,Aston Villa
-355,26956,Man Utd,West Ham,Manchester United,West Ham
-356,26957,Newcastle,Chelsea,Newcastle United,Chelsea
-357,26958,Nott'm Forest,Leicester,Nottingham Forest,Leicester
 358,26959,Southampton,Man City,Southampton,Manchester City
-359,26960,Spurs,Crystal Palace,Tottenham,Crystal Palace
 360,26961,Wolves,Brighton,Wolverhampton Wanderers,Brighton
+351,26955,Bournemouth,Aston Villa,Bournemouth,Aston Villa
+356,26957,Newcastle,Chelsea,Newcastle United,Chelsea
+355,26956,Man Utd,West Ham,Manchester United,West Ham
+357,26958,Nott'm Forest,Leicester,Nottingham Forest,Leicester
+359,26960,Spurs,Crystal Palace,Tottenham,Crystal Palace
+354,26952,Liverpool,Arsenal,Liverpool,Arsenal
 361,26962,Arsenal,Newcastle,Arsenal,Newcastle United
 362,26963,Aston Villa,Spurs,Aston Villa,Tottenham
 363,26964,Brentford,Fulham,Brentford,Fulham

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.11654618382453918,90,AMR,Arsenal,Bournemouth,1,2,2025-05-03,26945,2024,724252,0,0,0,0,0.11654618382453918,0.05985962599515915,0
 0,0,0,16,Sub,Bournemouth,Manchester United,1,1,2025-04-27,26932,2024,722970,0,0,0,0,0,0,0
 0,1,0.016888609156012535,27,Sub,Crystal Palace,Bournemouth,0,0,2025-04-19,26924,2024,720390,0,0,0,0,0.016888609156012535,0.048864059150218964,0.03197545185685158
 0,0,0,23,Sub,Bournemouth,Fulham,1,0,2025-04-14,26912,2024,719848,0,0,0,0,0,0,0

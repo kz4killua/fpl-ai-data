@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,76,DMC,Aston Villa,Fulham,1,0,2025-05-03,26946,2024,723818,0,0,0,0,0,0.1826007217168808,0.1826007217168808
 0,0,0,48,MC,Southampton,Fulham,1,2,2025-04-26,26940,2024,722637,0,0,0,0,0,0.12911194562911987,0.12911194562911987
 0,0,0,90,DMC,Fulham,Chelsea,1,2,2025-04-20,26926,2024,720946,0,0,0,0,0,0,0
 0,0,0,61,DMC,Bournemouth,Fulham,1,0,2025-04-14,26912,2024,719854,0,0,0,0,0,0.05303870141506195,0.05303870141506195

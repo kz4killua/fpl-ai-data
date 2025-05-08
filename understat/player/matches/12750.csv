@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,AMC,Everton,Ipswich,2,2,2025-05-03,26950,2024,724097,0.04463920742273331,0,2,0,0,0.13623228669166565,0.1119757890701294
 0,0,0,14,Sub,Newcastle United,Ipswich,3,0,2025-04-26,26938,2024,722613,0,0,0,0,0,0,0
 0,0,0,1,Sub,Ipswich,Arsenal,0,4,2025-04-20,26927,2024,720986,0,0,0,0,0,0,0
 0,0,0,6,Sub,Ipswich,Wolverhampton Wanderers,1,2,2025-04-05,26907,2024,716806,0,0,0,0,0,0,0
