@@ -359,16 +359,16 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 357,26958,Nott'm Forest,Leicester,Nottingham Forest,Leicester
 359,26960,Spurs,Crystal Palace,Tottenham,Crystal Palace
 354,26952,Liverpool,Arsenal,Liverpool,Arsenal
-361,26962,Arsenal,Newcastle,Arsenal,Newcastle United
 362,26963,Aston Villa,Spurs,Aston Villa,Tottenham
-363,26964,Brentford,Fulham,Brentford,Fulham
-364,26965,Brighton,Liverpool,Brighton,Liverpool
 365,26966,Chelsea,Man Utd,Chelsea,Manchester United
-366,26967,Crystal Palace,Wolves,Crystal Palace,Wolverhampton Wanderers
 367,26968,Everton,Southampton,Everton,Southampton
-368,26969,Leicester,Ipswich,Leicester,Ipswich
-369,26970,Man City,Bournemouth,Manchester City,Bournemouth
 370,26971,West Ham,Nott'm Forest,West Ham,Nottingham Forest
+363,26964,Brentford,Fulham,Brentford,Fulham
+368,26969,Leicester,Ipswich,Leicester,Ipswich
+361,26962,Arsenal,Newcastle,Arsenal,Newcastle United
+364,26965,Brighton,Liverpool,Brighton,Liverpool
+366,26967,Crystal Palace,Wolves,Crystal Palace,Wolverhampton Wanderers
+369,26970,Man City,Bournemouth,Manchester City,Bournemouth
 377,26972,Nott'm Forest,Chelsea,Nottingham Forest,Chelsea
 376,26973,Newcastle,Everton,Newcastle United,Everton
 375,26974,Man Utd,Aston Villa,Manchester United,Aston Villa
